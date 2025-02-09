@@ -1,0 +1,772 @@
+for training: box28gb1hn10r1x0.087r1y0.956r1z-0.279r1d332r2x0.932r2y-0.081r2z-0.352r2d272.equ.data
+for training: box28gb1hn10r1x-0.197r1y0.659r1z-0.725r1d273r2x0.234r2y-0.542r2z0.806r2d330.equ.data
+for training: box28gb1hn10r1x0.718r1y0.046r1z0.694r1d209r2x0.641r2y0.176r2z-0.746r2d91.equ.data
+for training: box28gb1hn10r1x0.076r1y-0.984r1z-0.157r1d248r2x-0.724r2y-0.470r2z0.504r2d75.equ.data
+for training: box28gb1hn10r1x0.931r1y0.353r1z0.081r1d154r2x0.453r2y0.886r2z-0.093r2d306.equ.data
+for training: box28gb1hn10r1x-0.167r1y0.541r1z-0.823r1d112r2x-0.013r2y0.872r2z0.489r2d52.equ.data
+for training: box28gb1hn10r1x-0.808r1y-0.304r1z-0.503r1d169r2x0.716r2y0.260r2z-0.646r2d110.equ.data
+for training: box28gb1hn10r1x0.740r1y-0.394r1z0.543r1d139r2x-0.384r2y0.801r2z-0.458r2d209.equ.data
+for training: box28gb1hn10r1x-0.848r1y0.528r1z0.022r1d149r2x-0.344r2y-0.480r2z-0.806r2d1.equ.data
+for training: box28gb1hn10r1x-0.540r1y-0.785r1z-0.302r1d1r2x0.019r2y0.692r2z0.721r2d37.equ.data
+for training: box28gb1hn10r1x0.471r1y-0.556r1z0.684r1d176r2x-0.650r2y0.287r2z0.703r2d206.equ.data
+for training: box28gb1hn10r1x0.212r1y0.646r1z0.732r1d194r2x0.220r2y0.089r2z-0.971r2d210.equ.data
+for training: box28gb1hn10r1x-0.226r1y-0.513r1z-0.827r1d7r2x0.118r2y0.732r2z-0.670r2d353.equ.data
+for training: box28gb1hn10r1x-0.506r1y-0.426r1z-0.749r1d4r2x0.714r2y0.000r2z0.699r2d230.equ.data
+for training: box28gb1hn10r1x-0.620r1y0.579r1z-0.528r1d154r2x0.609r2y-0.763r2z-0.217r2d29.equ.data
+for training: box28gb1hn10r1x0.132r1y-0.929r1z0.343r1d14r2x-0.260r2y0.680r2z0.684r2d49.equ.data
+for training: box28gb1hn10r1x-0.497r1y-0.857r1z0.128r1d356r2x0.429r2y0.360r2z0.827r2d165.equ.data
+for training: box28gb1hn10r1x0.804r1y0.204r1z0.557r1d34r2x-0.756r2y0.090r2z-0.647r2d222.equ.data
+for training: box28gb1hn10r1x-0.495r1y-0.494r1z0.714r1d310r2x-0.548r2y0.619r2z0.562r2d84.equ.data
+for training: box28gb1hn10r1x-0.524r1y-0.725r1z-0.445r1d22r2x0.346r2y0.290r2z-0.892r2d88.equ.data
+for training: box28gb1hn10r1x-0.599r1y-0.393r1z0.697r1d174r2x-0.336r2y0.886r2z0.317r2d0.equ.data
+for training: box28gb1hn10r1x-0.440r1y-0.127r1z-0.888r1d213r2x0.047r2y0.474r2z0.878r2d196.equ.data
+for training: box28gb1hn10r1x-0.687r1y-0.557r1z-0.464r1d212r2x-0.616r2y-0.162r2z0.770r2d94.equ.data
+for training: box28gb1hn10r1x-0.595r1y0.447r1z-0.667r1d261r2x0.508r2y-0.692r2z0.512r2d255.equ.data
+for training: box28gb1hn10r1x-0.018r1y-0.557r1z0.830r1d25r2x0.515r2y-0.368r2z0.773r2d84.equ.data
+for training: box28gb1hn10r1x-0.135r1y-0.956r1z-0.257r1d104r2x0.506r2y0.711r2z-0.486r2d35.equ.data
+for training: box28gb1hn10r1x-0.979r1y-0.196r1z0.033r1d58r2x-0.747r2y0.595r2z-0.293r2d4.equ.data
+for training: box28gb1hn10r1x0.593r1y-0.304r1z0.744r1d243r2x-0.067r2y-0.402r2z-0.913r2d322.equ.data
+for training: box28gb1hn10r1x-0.526r1y-0.647r1z-0.551r1d174r2x0.605r2y-0.625r2z-0.492r2d285.equ.data
+for training: box28gb1hn10r1x0.240r1y0.730r1z0.638r1d56r2x0.181r2y-0.951r2z0.250r2d216.equ.data
+for training: box28gb1hn10r1x0.928r1y-0.071r1z-0.365r1d208r2x-0.199r2y-0.399r2z-0.894r2d93.equ.data
+for training: box28gb1hn10r1x0.591r1y0.531r1z-0.606r1d77r2x-0.675r2y0.189r2z-0.712r2d129.equ.data
+for training: box28gb1hn10r1x-0.150r1y-0.929r1z0.336r1d243r2x-0.643r2y0.717r2z0.265r2d99.equ.data
+for training: box28gb1hn10r1x0.566r1y0.572r1z0.592r1d276r2x0.847r2y0.431r2z-0.307r2d64.equ.data
+for training: box28gb1hn10r1x-0.646r1y-0.560r1z-0.517r1d348r2x0.219r2y0.634r2z-0.740r2d211.equ.data
+for training: box28gb1hn10r1x-0.127r1y0.533r1z0.836r1d95r2x-0.899r2y0.435r2z-0.048r2d11.equ.data
+for training: box28gb1hn10r1x0.737r1y0.227r1z0.636r1d271r2x-0.031r2y0.934r2z-0.353r2d2.equ.data
+for training: box28gb1hn10r1x-0.587r1y-0.290r1z0.755r1d102r2x0.021r2y-0.630r2z0.776r2d201.equ.data
+for training: box28gb1hn10r1x-0.405r1y-0.891r1z0.200r1d16r2x-0.690r2y0.718r2z0.084r2d71.equ.data
+for training: box28gb1hn10r1x-0.986r1y-0.150r1z0.070r1d162r2x0.749r2y-0.140r2z0.646r2d46.equ.data
+for training: box28gb1hn10r1x0.263r1y0.626r1z0.733r1d314r2x-0.759r2y-0.572r2z0.308r2d46.equ.data
+for training: box28gb1hn10r1x0.752r1y0.039r1z-0.657r1d330r2x0.702r2y0.267r2z-0.659r2d244.equ.data
+for training: box28gb1hn10r1x0.090r1y0.865r1z-0.493r1d249r2x0.522r2y0.698r2z-0.488r2d233.equ.data
+for training: box28gb1hn10r1x-0.739r1y-0.054r1z0.670r1d96r2x-0.590r2y0.782r2z0.197r2d352.equ.data
+for training: box28gb1hn10r1x-0.503r1y-0.863r1z0.034r1d176r2x0.902r2y-0.016r2z-0.430r2d181.equ.data
+for training: box28gb1hn10r1x0.659r1y-0.006r1z-0.751r1d198r2x-0.735r2y0.535r2z0.416r2d0.equ.data
+for training: box28gb1hn10r1x0.853r1y-0.488r1z0.184r1d324r2x-0.787r2y-0.580r2z-0.205r2d150.equ.data
+for training: box28gb1hn10r1x-0.069r1y-0.507r1z-0.859r1d19r2x-0.503r2y-0.489r2z0.712r2d86.equ.data
+for training: box28gb1hn10r1x0.938r1y0.332r1z0.096r1d119r2x0.604r2y-0.699r2z0.381r2d356.equ.data
+for training: box28gb1hn10r1x0.539r1y-0.504r1z-0.673r1d101r2x-0.761r2y0.000r2z-0.648r2d55.equ.data
+for training: box28gb1hn10r1x0.407r1y0.736r1z0.540r1d265r2x0.211r2y-0.961r2z-0.175r2d95.equ.data
+for training: box28gb1hn10r1x-0.437r1y0.680r1z0.588r1d207r2x0.858r2y0.054r2z-0.509r2d289.equ.data
+for training: box28gb1hn10r1x0.175r1y-0.745r1z-0.643r1d57r2x-0.546r2y0.831r2z0.096r2d62.equ.data
+for training: box28gb1hn10r1x0.128r1y-0.658r1z0.741r1d160r2x0.672r2y0.252r2z0.695r2d103.equ.data
+for training: box28gb1hn10r1x0.288r1y-0.383r1z0.877r1d175r2x-0.524r2y0.593r2z0.610r2d134.equ.data
+for training: box28gb1hn10r1x0.866r1y-0.421r1z-0.268r1d130r2x0.042r2y-0.265r2z0.963r2d170.equ.data
+for training: box28gb1hn10r1x0.472r1y-0.800r1z0.369r1d22r2x-0.486r2y0.710r2z0.507r2d282.equ.data
+for training: box28gb1hn10r1x-0.445r1y-0.528r1z-0.722r1d219r2x0.115r2y0.349r2z0.930r2d113.equ.data
+for training: box28gb1hn10r1x0.631r1y0.557r1z-0.538r1d344r2x-0.193r2y-0.550r2z-0.811r2d227.equ.data
+for training: box28gb1hn10r1x0.406r1y-0.574r1z0.709r1d290r2x0.718r2y-0.326r2z0.613r2d3.equ.data
+for training: box28gb1hn10r1x0.031r1y0.972r1z-0.230r1d266r2x-0.596r2y0.532r2z0.600r2d141.equ.data
+for training: box28gb1hn10r1x-0.776r1y0.249r1z0.579r1d149r2x-0.969r2y-0.011r2z0.243r2d280.equ.data
+for training: box28gb1hn10r1x-0.014r1y0.686r1z0.727r1d356r2x0.479r2y0.362r2z0.799r2d291.equ.data
+for training: box28gb1hn10r1x0.071r1y-0.698r1z0.712r1d354r2x0.306r2y-0.596r2z0.741r2d145.equ.data
+for training: box28gb1hn10r1x0.586r1y0.252r1z0.769r1d243r2x-0.810r2y-0.459r2z0.364r2d316.equ.data
+for training: box28gb1hn10r1x0.198r1y0.973r1z0.115r1d75r2x0.315r2y-0.303r2z-0.899r2d301.equ.data
+for training: box28gb1hn10r1x-0.345r1y0.140r1z-0.927r1d224r2x-0.969r2y-0.245r2z0.021r2d285.equ.data
+for training: box28gb1hn10r1x-0.672r1y-0.543r1z-0.502r1d136r2x-0.921r2y0.345r2z0.176r2d70.equ.data
+for training: box28gb1hn10r1x0.111r1y-0.384r1z0.916r1d239r2x-0.702r2y-0.671r2z-0.235r2d231.equ.data
+for training: box28gb1hn10r1x0.333r1y0.918r1z-0.216r1d326r2x-0.044r2y-0.733r2z0.678r2d355.equ.data
+for training: box28gb1hn10r1x0.731r1y0.632r1z0.253r1d174r2x-0.375r2y0.208r2z-0.903r2d131.equ.data
+for training: box28gb1hn10r1x-0.290r1y-0.604r1z-0.741r1d216r2x0.570r2y0.750r2z-0.333r2d249.equ.data
+for training: box28gb1hn10r1x-0.637r1y0.737r1z0.221r1d248r2x0.349r2y-0.936r2z0.040r2d218.equ.data
+for training: box28gb1hn10r1x-0.517r1y-0.614r1z0.595r1d69r2x0.707r2y-0.003r2z-0.707r2d203.equ.data
+for training: box28gb1hn10r1x-0.589r1y-0.569r1z-0.573r1d270r2x0.016r2y0.997r2z0.063r2d74.equ.data
+for training: box28gb1hn10r1x-0.047r1y0.696r1z0.716r1d204r2x0.612r2y-0.735r2z0.289r2d99.equ.data
+for training: box28gb1hn10r1x-0.769r1y0.521r1z0.370r1d287r2x-0.634r2y0.621r2z0.460r2d234.equ.data
+for training: box28gb1hn10r1x0.530r1y0.843r1z0.085r1d204r2x-0.456r2y0.786r2z0.415r2d229.equ.data
+for training: box28gb1hn10r1x0.389r1y0.506r1z-0.778r1d236r2x-0.502r2y0.642r2z-0.578r2d118.equ.data
+for training: box28gb1hn10r1x-0.077r1y0.457r1z-0.885r1d183r2x-0.301r2y0.825r2z-0.477r2d321.equ.data
+for training: box28gb1hn10r1x0.236r1y-0.967r1z0.087r1d226r2x-0.622r2y0.704r2z0.341r2d221.equ.data
+for training: box28gb1hn10r1x-0.150r1y0.823r1z0.547r1d191r2x-0.638r2y-0.640r2z-0.427r2d95.equ.data
+for training: box28gb1hn10r1x-0.725r1y0.492r1z0.481r1d173r2x-0.482r2y0.358r2z0.799r2d19.equ.data
+for training: box28gb1hn10r1x0.273r1y-0.578r1z-0.768r1d328r2x-0.517r2y-0.783r2z0.344r2d127.equ.data
+for training: box28gb1hn10r1x0.706r1y0.559r1z-0.432r1d269r2x0.069r2y0.619r2z0.781r2d326.equ.data
+for training: box28gb1hn10r1x0.529r1y0.432r1z-0.730r1d207r2x0.790r2y0.202r2z0.577r2d135.equ.data
+for training: box28gb1hn10r1x-0.192r1y0.574r1z-0.795r1d267r2x0.139r2y-0.986r2z0.081r2d9.equ.data
+for training: box28gb1hn10r1x0.451r1y-0.655r1z0.605r1d260r2x-0.370r2y0.635r2z0.677r2d294.equ.data
+for training: box28gb1hn10r1x-0.669r1y0.627r1z-0.397r1d98r2x-0.601r2y-0.277r2z0.749r2d268.equ.data
+for training: box28gb1hn10r1x-0.803r1y-0.194r1z-0.563r1d163r2x-0.054r2y0.338r2z-0.939r2d137.equ.data
+for training: box28gb1hn10r1x0.577r1y-0.755r1z0.309r1d144r2x0.730r2y0.588r2z-0.346r2d88.equ.data
+for training: box28gb1hn10r1x0.903r1y-0.057r1z0.424r1d65r2x-0.696r2y0.713r2z0.068r2d142.equ.data
+for training: box28gb1hn10r1x-0.879r1y0.376r1z-0.290r1d143r2x0.284r2y-0.350r2z-0.892r2d328.equ.data
+for training: box28gb1hn10r1x-0.988r1y-0.150r1z0.025r1d185r2x-0.612r2y0.760r2z0.215r2d306.equ.data
+for training: box28gb1hn10r1x0.672r1y-0.642r1z0.371r1d235r2x-0.640r2y0.388r2z0.662r2d46.equ.data
+for training: box28gb1hn10r1x0.318r1y-0.684r1z0.655r1d265r2x0.931r2y-0.358r2z0.067r2d278.equ.data
+for training: box28gb1hn10r1x0.404r1y-0.614r1z0.677r1d2r2x-0.087r2y0.567r2z0.818r2d353.equ.data
+for training: box28gb1hn10r1x-0.562r1y-0.632r1z0.532r1d33r2x-0.731r2y-0.409r2z0.545r2d53.equ.data
+for training: box28gb1hn10r1x-0.789r1y0.455r1z-0.411r1d220r2x-0.421r2y0.049r2z-0.905r2d162.equ.data
+for training: box28gb1hn10r1x0.805r1y0.130r1z0.578r1d63r2x0.120r2y0.701r2z-0.702r2d82.equ.data
+for training: box28gb1hn10r1x-0.196r1y0.972r1z0.125r1d262r2x0.132r2y0.750r2z0.647r2d193.equ.data
+for training: box28gb1hn10r1x0.283r1y0.498r1z-0.819r1d73r2x0.209r2y-0.784r2z0.583r2d143.equ.data
+for training: box28gb1hn10r1x-0.662r1y-0.707r1z0.245r1d342r2x-0.792r2y0.219r2z0.569r2d103.equ.data
+for training: box28gb1hn10r1x0.885r1y-0.153r1z-0.438r1d325r2x0.616r2y-0.397r2z0.679r2d316.equ.data
+for training: box28gb1hn10r1x0.535r1y-0.309r1z0.786r1d263r2x-0.550r2y0.572r2z0.608r2d261.equ.data
+for training: box28gb1hn10r1x0.416r1y0.649r1z0.635r1d295r2x0.042r2y-0.581r2z-0.812r2d51.equ.data
+for training: box28gb1hn10r1x0.812r1y-0.560r1z0.159r1d30r2x-0.529r2y0.303r2z0.792r2d175.equ.data
+for training: box28gb1hn10r1x-0.269r1y-0.680r1z0.681r1d92r2x0.739r2y0.281r2z0.611r2d11.equ.data
+for training: box28gb1hn10r1x-0.328r1y-0.577r1z0.747r1d223r2x-0.788r2y0.526r2z-0.317r2d2.equ.data
+for training: box28gb1hn10r1x0.435r1y-0.884r1z0.165r1d358r2x0.081r2y0.303r2z-0.949r2d275.equ.data
+for training: box28gb1hn10r1x-0.306r1y0.829r1z0.467r1d303r2x0.784r2y0.489r2z0.381r2d62.equ.data
+for training: box28gb1hn10r1x0.652r1y-0.326r1z0.683r1d284r2x0.578r2y0.405r2z0.708r2d265.equ.data
+for training: box28gb1hn10r1x-0.643r1y0.416r1z-0.641r1d15r2x-0.760r2y0.509r2z0.403r2d8.equ.data
+for training: box28gb1hn10r1x0.760r1y-0.367r1z0.536r1d334r2x0.414r2y0.343r2z0.842r2d200.equ.data
+for training: box28gb1hn10r1x0.951r1y-0.178r1z-0.251r1d142r2x-0.739r2y0.288r2z0.608r2d289.equ.data
+for training: box28gb1hn10r1x-0.241r1y0.671r1z0.700r1d6r2x0.748r2y-0.447r2z-0.489r2d341.equ.data
+for training: box28gb1hn10r1x-0.774r1y0.598r1z0.207r1d223r2x-0.800r2y-0.598r2z0.030r2d15.equ.data
+for training: box28gb1hn10r1x-0.517r1y0.852r1z-0.073r1d16r2x-0.662r2y0.748r2z0.017r2d229.equ.data
+for training: box28gb1hn10r1x0.649r1y0.496r1z-0.576r1d97r2x0.504r2y-0.634r2z0.585r2d91.equ.data
+for training: box28gb1hn10r1x-0.980r1y-0.137r1z-0.144r1d176r2x0.316r2y0.746r2z-0.585r2d4.equ.data
+for training: box28gb1hn10r1x0.778r1y0.483r1z0.401r1d341r2x0.617r2y-0.654r2z0.436r2d331.equ.data
+for training: box28gb1hn10r1x-0.438r1y0.497r1z0.748r1d357r2x0.170r2y0.028r2z0.984r2d188.equ.data
+for training: box28gb1hn10r1x0.606r1y0.164r1z-0.777r1d112r2x-0.442r2y0.680r2z0.584r2d315.equ.data
+for training: box28gb1hn10r1x-0.373r1y0.918r1z0.129r1d312r2x0.960r2y-0.178r2z-0.214r2d178.equ.data
+for training: box28gb1hn10r1x0.086r1y0.386r1z0.918r1d242r2x0.885r2y-0.393r2z-0.247r2d144.equ.data
+for training: box28gb1hn10r1x0.760r1y0.520r1z0.388r1d55r2x0.566r2y0.320r2z0.759r2d36.equ.data
+for training: box28gb1hn10r1x-0.019r1y-0.747r1z-0.664r1d298r2x0.249r2y0.277r2z0.927r2d131.equ.data
+for training: box28gb1hn10r1x0.388r1y0.806r1z-0.445r1d132r2x-0.774r2y0.040r2z-0.631r2d59.equ.data
+for training: box28gb1hn10r1x-0.102r1y0.784r1z0.611r1d97r2x-0.123r2y-0.955r2z-0.269r2d128.equ.data
+for training: box28gb1hn10r1x0.590r1y-0.795r1z-0.134r1d132r2x0.450r2y-0.880r2z-0.147r2d25.equ.data
+for training: box28gb1hn10r1x0.552r1y-0.470r1z0.688r1d53r2x-0.545r2y-0.836r2z-0.046r2d337.equ.data
+for training: box28gb1hn10r1x0.723r1y-0.117r1z0.680r1d64r2x0.490r2y0.018r2z-0.871r2d191.equ.data
+for training: box28gb1hn10r1x0.906r1y-0.135r1z0.400r1d130r2x-0.700r2y0.356r2z0.617r2d302.equ.data
+for training: box28gb1hn10r1x0.449r1y-0.338r1z0.826r1d68r2x0.581r2y0.252r2z-0.773r2d1.equ.data
+for training: box28gb1hn10r1x0.825r1y-0.345r1z-0.447r1d109r2x0.671r2y-0.301r2z-0.677r2d330.equ.data
+for training: box28gb1hn10r1x0.341r1y0.797r1z0.497r1d274r2x0.536r2y-0.566r2z0.625r2d317.equ.data
+for training: box28gb1hn10r1x-0.636r1y0.759r1z-0.132r1d290r2x0.696r2y-0.717r2z-0.005r2d333.equ.data
+for training: box28gb1hn10r1x-0.720r1y0.507r1z0.473r1d186r2x0.271r2y-0.956r2z-0.110r2d1.equ.data
+for training: box28gb1hn10r1x0.450r1y-0.642r1z0.620r1d247r2x-0.595r2y-0.136r2z0.791r2d321.equ.data
+for training: box28gb1hn10r1x-0.534r1y0.073r1z-0.842r1d85r2x0.306r2y0.243r2z-0.920r2d128.equ.data
+for training: box28gb1hn10r1x-0.928r1y0.364r1z-0.068r1d252r2x-0.532r2y-0.554r2z0.638r2d55.equ.data
+for training: box28gb1hn10r1x0.834r1y0.393r1z-0.386r1d296r2x0.512r2y0.224r2z-0.829r2d46.equ.data
+for training: box28gb1hn10r1x-0.775r1y0.288r1z-0.561r1d332r2x0.555r2y-0.566r2z-0.609r2d64.equ.data
+for training: box28gb1hn10r1x0.988r1y-0.037r1z0.147r1d216r2x0.525r2y0.847r2z-0.078r2d202.equ.data
+for training: box28gb1hn10r1x-0.655r1y-0.752r1z-0.063r1d122r2x-0.871r2y-0.394r2z0.291r2d258.equ.data
+for training: box28gb1hn10r1x0.112r1y-0.938r1z-0.325r1d301r2x-0.294r2y-0.068r2z-0.953r2d222.equ.data
+for training: box28gb1hn10r1x0.594r1y0.426r1z0.681r1d116r2x-0.571r2y-0.356r2z0.739r2d334.equ.data
+for training: box28gb1hn10r1x-0.805r1y-0.121r1z-0.579r1d347r2x0.724r2y-0.588r2z-0.357r2d319.equ.data
+for training: box28gb1hn10r1x0.590r1y-0.719r1z0.364r1d254r2x-0.714r2y0.612r2z-0.338r2d22.equ.data
+for training: box28gb1hn10r1x0.526r1y-0.138r1z-0.838r1d177r2x-0.090r2y-0.124r2z0.988r2d296.equ.data
+for training: box28gb1hn10r1x-0.759r1y0.196r1z-0.620r1d97r2x-0.514r2y0.077r2z0.853r2d118.equ.data
+for training: box28gb1hn10r1x-0.641r1y0.675r1z-0.362r1d50r2x0.516r2y-0.360r2z-0.776r2d333.equ.data
+for training: box28gb1hn10r1x0.287r1y0.127r1z0.949r1d169r2x0.338r2y-0.887r2z0.311r2d293.equ.data
+for training: box28gb1hn10r1x0.318r1y0.947r1z-0.045r1d320r2x0.861r2y-0.019r2z-0.506r2d256.equ.data
+for training: box28gb1hn10r1x-0.190r1y0.529r1z-0.826r1d177r2x-0.727r2y0.659r2z0.188r2d107.equ.data
+for training: box28gb1hn10r1x0.548r1y-0.651r1z-0.524r1d24r2x-0.397r2y-0.816r2z-0.419r2d89.equ.data
+for training: box28gb1hn10r1x0.367r1y-0.692r1z0.620r1d212r2x-0.493r2y0.206r2z-0.844r2d1.equ.data
+for training: box28gb1hn10r1x-0.038r1y-0.938r1z0.343r1d257r2x0.425r2y-0.003r2z-0.904r2d316.equ.data
+for training: box28gb1hn10r1x-0.798r1y-0.511r1z-0.318r1d357r2x0.986r2y-0.014r2z0.163r2d54.equ.data
+for training: box28gb1hn10r1x0.382r1y-0.886r1z0.259r1d223r2x-0.082r2y0.867r2z0.490r2d141.equ.data
+for training: box28gb1hn10r1x-0.711r1y-0.261r1z0.651r1d267r2x0.086r2y-0.995r2z-0.027r2d112.equ.data
+for training: box28gb1hn10r1x0.665r1y0.169r1z-0.726r1d235r2x-0.574r2y0.629r2z-0.522r2d70.equ.data
+for training: box28gb1hn10r1x0.008r1y-0.065r1z-0.997r1d141r2x0.616r2y0.497r2z-0.609r2d59.equ.data
+for training: box28gb1hn10r1x-0.090r1y0.374r1z-0.922r1d94r2x0.575r2y-0.794r2z-0.194r2d92.equ.data
+for training: box28gb1hn10r1x-0.363r1y-0.681r1z0.635r1d282r2x0.673r2y0.655r2z-0.341r2d329.equ.data
+for training: box28gb1hn10r1x-0.123r1y-0.542r1z0.830r1d103r2x0.088r2y0.713r2z0.695r2d157.equ.data
+for training: box28gb1hn10r1x-0.448r1y0.039r1z0.892r1d146r2x-0.470r2y-0.863r2z0.181r2d87.equ.data
+for training: box28gb1hn10r1x-0.723r1y0.452r1z0.521r1d35r2x0.068r2y0.246r2z-0.967r2d104.equ.data
+for training: box28gb1hn10r1x0.890r1y-0.446r1z0.089r1d125r2x-0.401r2y-0.565r2z0.720r2d203.equ.data
+for training: box28gb1hn10r1x0.183r1y-0.469r1z-0.863r1d232r2x-0.663r2y-0.361r2z-0.654r2d330.equ.data
+for training: box28gb1hn10r1x-0.700r1y-0.470r1z-0.537r1d274r2x-0.392r2y0.879r2z-0.270r2d129.equ.data
+for training: box28gb1hn10r1x0.687r1y-0.427r1z0.586r1d11r2x-0.956r2y0.216r2z-0.197r2d263.equ.data
+for training: box28gb1hn10r1x0.493r1y-0.861r1z0.118r1d323r2x-0.875r2y-0.359r2z0.325r2d121.equ.data
+for training: box28gb1hn10r1x-0.039r1y-0.628r1z0.776r1d249r2x-0.520r2y0.631r2z-0.574r2d352.equ.data
+for training: box28gb1hn10r1x0.705r1y0.384r1z-0.595r1d198r2x-0.369r2y0.054r2z0.927r2d172.equ.data
+for training: box28gb1hn10r1x-0.531r1y0.680r1z0.504r1d310r2x-0.979r2y0.202r2z0.002r2d172.equ.data
+for training: box28gb1hn10r1x0.422r1y-0.038r1z-0.905r1d23r2x-0.757r2y-0.272r2z-0.593r2d146.equ.data
+for training: box28gb1hn10r1x-0.352r1y-0.848r1z0.395r1d3r2x0.625r2y-0.090r2z-0.774r2d325.equ.data
+for training: box28gb1hn10r1x-0.317r1y-0.489r1z0.811r1d337r2x0.660r2y0.361r2z-0.658r2d68.equ.data
+for training: box28gb1hn10r1x-0.508r1y-0.656r1z0.557r1d252r2x0.682r2y0.389r2z-0.618r2d276.equ.data
+for training: box28gb1hn10r1x-0.255r1y-0.157r1z-0.953r1d161r2x0.874r2y0.368r2z-0.315r2d205.equ.data
+for training: box28gb1hn10r1x-0.685r1y-0.075r1z-0.724r1d48r2x0.041r2y0.991r2z-0.119r2d91.equ.data
+for training: box28gb1hn10r1x-0.353r1y-0.787r1z-0.505r1d183r2x0.595r2y0.719r2z-0.358r2d222.equ.data
+for training: box28gb1hn10r1x0.702r1y0.422r1z0.572r1d36r2x0.989r2y-0.131r2z0.063r2d93.equ.data
+for training: box28gb1hn10r1x-0.039r1y-0.181r1z-0.982r1d30r2x0.080r2y0.987r2z-0.136r2d136.equ.data
+for training: box28gb1hn10r1x-0.665r1y-0.080r1z0.742r1d274r2x-0.212r2y0.751r2z0.624r2d304.equ.data
+for training: box28gb1hn10r1x-0.656r1y-0.191r1z0.729r1d179r2x0.806r2y0.273r2z-0.523r2d275.equ.data
+for training: box28gb1hn10r1x-0.016r1y-0.991r1z0.131r1d359r2x-0.697r2y0.234r2z-0.677r2d349.equ.data
+for training: box28gb1hn10r1x-0.560r1y0.080r1z-0.824r1d36r2x-0.174r2y0.915r2z-0.361r2d212.equ.data
+for training: box28gb1hn10r1x-0.760r1y0.601r1z0.244r1d133r2x0.354r2y0.883r2z-0.307r2d150.equ.data
+for training: box28gb1hn10r1x0.273r1y-0.912r1z-0.305r1d6r2x0.541r2y0.726r2z0.422r2d172.equ.data
+for training: box28gb1hn10r1x0.599r1y-0.767r1z-0.227r1d204r2x0.870r2y-0.473r2z0.136r2d124.equ.data
+for training: box28gb1hn10r1x-0.378r1y-0.276r1z-0.883r1d82r2x-0.517r2y-0.552r2z0.653r2d79.equ.data
+for training: box28gb1hn10r1x0.138r1y-0.003r1z-0.990r1d3r2x-0.591r2y-0.512r2z-0.622r2d133.equ.data
+for training: box28gb1hn10r1x-0.358r1y-0.560r1z0.746r1d1r2x-0.967r2y0.250r2z-0.029r2d325.equ.data
+for training: box28gb1hn10r1x0.572r1y0.658r1z0.488r1d272r2x0.255r2y0.844r2z0.470r2d3.equ.data
+for training: box28gb1hn10r1x0.090r1y0.790r1z-0.605r1d88r2x-0.618r2y0.695r2z0.365r2d170.equ.data
+for training: box28gb1hn10r1x-0.867r1y0.006r1z-0.498r1d324r2x0.037r2y0.252r2z0.966r2d157.equ.data
+for training: box28gb1hn10r1x0.206r1y0.968r1z-0.136r1d106r2x-0.174r2y0.518r2z-0.837r2d149.equ.data
+for training: box28gb1hn10r1x0.781r1y0.519r1z-0.346r1d221r2x-0.489r2y-0.828r2z0.274r2d20.equ.data
+for training: box28gb1hn10r1x-0.128r1y0.872r1z-0.471r1d60r2x-0.701r2y0.634r2z-0.325r2d249.equ.data
+for training: box28gb1hn10r1x-0.123r1y-0.838r1z-0.530r1d211r2x-0.794r2y0.527r2z0.300r2d328.equ.data
+for training: box28gb1hn10r1x-0.820r1y-0.567r1z0.063r1d90r2x0.353r2y0.570r2z0.741r2d17.equ.data
+for training: box28gb1hn10r1x-0.828r1y-0.176r1z0.532r1d228r2x0.474r2y0.869r2z-0.138r2d51.equ.data
+for training: box28gb1hn10r1x0.710r1y0.278r1z0.646r1d245r2x0.014r2y-0.089r2z-0.995r2d38.equ.data
+for training: box28gb1hn10r1x-0.050r1y-0.763r1z0.643r1d142r2x0.020r2y-0.715r2z0.697r2d305.equ.data
+for training: box28gb1hn10r1x0.897r1y-0.359r1z0.255r1d262r2x-0.349r2y-0.529r2z0.773r2d69.equ.data
+for training: box28gb1hn10r1x-0.255r1y-0.825r1z-0.503r1d96r2x0.054r2y-0.594r2z0.802r2d84.equ.data
+for training: box28gb1hn10r1x-0.860r1y0.025r1z0.509r1d275r2x-0.280r2y-0.545r2z0.789r2d223.equ.data
+for training: box28gb1hn10r1x-0.171r1y-0.602r1z0.779r1d6r2x-0.806r2y0.434r2z-0.401r2d189.equ.data
+for training: box28gb1hn10r1x-0.801r1y0.473r1z-0.365r1d8r2x-0.258r2y-0.784r2z-0.563r2d19.equ.data
+for training: box28gb1hn10r1x-0.393r1y-0.367r1z-0.842r1d278r2x0.393r2y-0.327r2z0.859r2d206.equ.data
+for training: box28gb1hn10r1x0.517r1y0.276r1z-0.810r1d280r2x-0.190r2y-0.409r2z-0.892r2d330.equ.data
+for training: box28gb1hn10r1x0.785r1y-0.380r1z0.488r1d149r2x0.307r2y-0.909r2z-0.281r2d72.equ.data
+for training: box28gb1hn10r1x-0.857r1y0.444r1z-0.260r1d114r2x-0.326r2y-0.893r2z-0.307r2d318.equ.data
+for training: box28gb1hn10r1x0.548r1y0.474r1z-0.688r1d153r2x-0.533r2y0.308r2z-0.787r2d70.equ.data
+for training: box28gb1hn10r1x0.775r1y-0.538r1z-0.330r1d360r2x-0.809r2y0.449r2z-0.377r2d279.equ.data
+for training: box28gb1hn10r1x-0.294r1y0.439r1z-0.848r1d153r2x0.384r2y0.572r2z0.724r2d61.equ.data
+for training: box28gb1hn10r1x0.098r1y0.353r1z-0.930r1d271r2x-0.585r2y-0.750r2z-0.305r2d213.equ.data
+for training: box28gb1hn10r1x0.595r1y-0.171r1z0.784r1d101r2x0.618r2y-0.759r2z-0.201r2d187.equ.data
+for training: box28gb1hn10r1x-0.742r1y-0.646r1z-0.175r1d359r2x0.151r2y-0.692r2z-0.705r2d130.equ.data
+for training: box28gb1hn10r1x0.730r1y0.562r1z-0.387r1d346r2x-0.801r2y0.157r2z-0.576r2d181.equ.data
+for training: box28gb1hn10r1x0.172r1y-0.606r1z0.776r1d4r2x0.644r2y-0.040r2z0.763r2d88.equ.data
+for training: box28gb1hn10r1x-0.519r1y0.649r1z0.555r1d344r2x-0.958r2y0.281r2z-0.045r2d166.equ.data
+for training: box28gb1hn10r1x0.705r1y0.547r1z0.449r1d278r2x-0.537r2y-0.616r2z0.575r2d158.equ.data
+for training: box28gb1hn10r1x-0.130r1y-0.809r1z0.572r1d106r2x-0.958r2y-0.270r2z-0.093r2d88.equ.data
+for training: box28gb1hn10r1x-0.563r1y-0.560r1z-0.606r1d53r2x0.949r2y-0.052r2z0.307r2d145.equ.data
+for training: box28gb1hn10r1x0.720r1y0.080r1z-0.688r1d192r2x0.683r2y0.656r2z0.318r2d256.equ.data
+for training: box28gb1hn10r1x0.404r1y0.873r1z-0.269r1d84r2x0.908r2y0.078r2z0.410r2d104.equ.data
+for training: box28gb1hn10r1x-0.596r1y-0.682r1z0.422r1d229r2x0.433r2y0.642r2z0.631r2d17.equ.data
+for training: box28gb1hn10r1x0.316r1y-0.642r1z0.697r1d60r2x-0.259r2y0.668r2z0.696r2d200.equ.data
+for training: box28gb1hn10r1x0.642r1y0.567r1z-0.514r1d73r2x-0.118r2y0.993r2z0.005r2d29.equ.data
+for training: box28gb1hn10r1x-0.065r1y0.202r1z0.977r1d143r2x-0.122r2y-0.864r2z0.487r2d296.equ.data
+for training: box28gb1hn10r1x0.069r1y0.689r1z0.720r1d0r2x0.175r2y-0.687r2z0.704r2d356.equ.data
+for training: box28gb1hn10r1x-0.050r1y0.351r1z0.934r1d34r2x0.602r2y-0.597r2z0.529r2d7.equ.data
+for training: box28gb1hn10r1x-0.621r1y0.025r1z0.782r1d343r2x-0.383r2y-0.603r2z0.698r2d15.equ.data
+for training: box28gb1hn10r1x0.247r1y-0.505r1z-0.826r1d242r2x0.880r2y-0.314r2z0.355r2d183.equ.data
+for training: box28gb1hn10r1x0.909r1y-0.214r1z0.357r1d296r2x-0.066r2y0.947r2z0.312r2d339.equ.data
+for training: box28gb1hn10r1x0.277r1y-0.495r1z-0.823r1d301r2x-0.246r2y0.431r2z-0.867r2d59.equ.data
+for training: box28gb1hn10r1x-0.322r1y0.582r1z-0.746r1d213r2x-0.886r2y-0.388r2z0.251r2d328.equ.data
+for training: box28gb1hn10r1x-0.357r1y0.349r1z0.866r1d103r2x0.021r2y-0.670r2z-0.741r2d150.equ.data
+for training: box28gb1hn10r1x0.485r1y0.527r1z-0.697r1d122r2x0.561r2y0.282r2z0.777r2d33.equ.data
+for training: box28gb1hn10r1x0.782r1y-0.045r1z0.620r1d96r2x0.179r2y-0.983r2z-0.039r2d197.equ.data
+for training: box28gb1hn10r1x0.549r1y-0.765r1z-0.334r1d230r2x0.721r2y-0.590r2z0.362r2d183.equ.data
+for training: box28gb1hn10r1x-0.836r1y-0.067r1z0.544r1d307r2x-0.741r2y-0.653r2z0.152r2d215.equ.data
+for training: box28gb1hn10r1x0.396r1y0.402r1z-0.824r1d252r2x0.297r2y-0.361r2z-0.883r2d263.equ.data
+for training: box28gb1hn10r1x0.382r1y-0.542r1z-0.748r1d240r2x-0.248r2y-0.676r2z-0.693r2d182.equ.data
+for training: box28gb1hn10r1x0.665r1y0.144r1z0.731r1d229r2x-0.605r2y-0.156r2z0.780r2d61.equ.data
+for training: box28gb1hn10r1x-0.848r1y0.005r1z0.529r1d151r2x-0.311r2y-0.900r2z0.303r2d85.equ.data
+for training: box28gb1hn10r1x0.188r1y0.871r1z-0.452r1d157r2x-0.344r2y0.555r2z-0.756r2d11.equ.data
+for training: box28gb1hn10r1x0.913r1y0.238r1z0.330r1d10r2x0.827r2y0.557r2z-0.067r2d93.equ.data
+for training: box28gb1hn10r1x-0.730r1y0.489r1z-0.476r1d215r2x-0.487r2y0.331r2z0.807r2d45.equ.data
+for training: box28gb1hn10r1x-0.715r1y-0.287r1z-0.636r1d175r2x0.563r2y0.141r2z-0.814r2d31.equ.data
+for training: box28gb1hn10r1x0.053r1y0.665r1z-0.744r1d190r2x-0.405r2y-0.549r2z-0.730r2d343.equ.data
+for training: box28gb1hn10r1x0.535r1y-0.843r1z0.034r1d230r2x-0.573r2y0.596r2z0.561r2d168.equ.data
+for training: box28gb1hn10r1x0.938r1y-0.312r1z-0.147r1d315r2x-0.690r2y0.714r2z-0.110r2d16.equ.data
+for training: box28gb1hn10r1x0.532r1y0.643r1z0.549r1d218r2x-0.833r2y-0.062r2z-0.549r2d204.equ.data
+for training: box28gb1hn10r1x-0.715r1y-0.694r1z-0.076r1d170r2x0.485r2y0.134r2z0.863r2d324.equ.data
+for training: box28gb1hn10r1x0.856r1y-0.414r1z-0.308r1d54r2x0.289r2y-0.472r2z0.832r2d186.equ.data
+for training: box28gb1hn10r1x-0.787r1y0.571r1z0.230r1d218r2x0.760r2y0.613r2z-0.214r2d136.equ.data
+for training: box28gb1hn10r1x0.386r1y-0.695r1z-0.605r1d1r2x-0.843r2y0.437r2z0.310r2d312.equ.data
+for training: box28gb1hn10r1x0.172r1y0.661r1z-0.730r1d253r2x-0.358r2y0.864r2z0.352r2d155.equ.data
+for training: box28gb1hn10r1x0.089r1y-0.654r1z0.750r1d252r2x0.657r2y0.639r2z-0.397r2d125.equ.data
+for training: box28gb1hn10r1x-0.661r1y-0.419r1z-0.621r1d256r2x-0.320r2y-0.732r2z-0.601r2d13.equ.data
+for training: box28gb1hn10r1x-0.710r1y0.584r1z0.391r1d32r2x0.683r2y0.409r2z0.604r2d326.equ.data
+for training: box28gb1hn10r1x0.298r1y0.933r1z0.199r1d51r2x-0.286r2y-0.234r2z0.928r2d354.equ.data
+for training: box28gb1hn10r1x-0.676r1y0.618r1z-0.399r1d27r2x0.711r2y0.572r2z0.408r2d209.equ.data
+for training: box28gb1hn10r1x-0.633r1y0.619r1z0.463r1d40r2x-0.248r2y-0.818r2z0.517r2d137.equ.data
+for training: box28gb1hn10r1x-0.954r1y0.088r1z0.285r1d153r2x-0.535r2y0.825r2z0.179r2d283.equ.data
+for training: box28gb1hn10r1x-0.653r1y0.022r1z0.756r1d37r2x0.347r2y-0.378r2z-0.857r2d261.equ.data
+for training: box28gb1hn10r1x-0.553r1y0.189r1z0.811r1d27r2x-0.075r2y0.718r2z0.691r2d18.equ.data
+for training: box28gb1hn10r1x0.680r1y0.655r1z-0.326r1d40r2x0.572r2y0.801r2z-0.173r2d257.equ.data
+for training: box28gb1hn10r1x0.627r1y-0.676r1z0.386r1d346r2x-0.514r2y-0.817r2z0.259r2d171.equ.data
+for training: box28gb1hn10r1x-0.206r1y0.968r1z0.140r1d4r2x-0.374r2y-0.514r2z-0.771r2d280.equ.data
+for training: box28gb1hn10r1x-0.729r1y0.463r1z-0.502r1d313r2x0.658r2y0.681r2z-0.318r2d253.equ.data
+for training: box28gb1hn10r1x0.003r1y0.834r1z0.550r1d228r2x-0.672r2y-0.532r2z-0.514r2d272.equ.data
+for training: box28gb1hn10r1x-0.343r1y0.174r1z-0.923r1d51r2x0.389r2y0.545r2z0.742r2d296.equ.data
+for training: box28gb1hn10r1x-0.701r1y0.098r1z-0.706r1d236r2x-0.593r2y-0.334r2z0.731r2d335.equ.data
+for training: box28gb1hn10r1x-0.119r1y-0.824r1z-0.552r1d226r2x0.423r2y-0.796r2z0.431r2d142.equ.data
+for training: box28gb1hn10r1x0.129r1y0.631r1z0.764r1d166r2x0.499r2y0.579r2z0.644r2d95.equ.data
+for training: box28gb1hn10r1x0.857r1y-0.514r1z0.013r1d122r2x0.695r2y0.200r2z0.690r2d253.equ.data
+for training: box28gb1hn10r1x-0.639r1y-0.686r1z-0.345r1d103r2x-0.657r2y-0.475r2z-0.584r2d15.equ.data
+for training: box28gb1hn10r1x-0.631r1y0.380r1z0.675r1d95r2x0.733r2y-0.672r2z-0.093r2d237.equ.data
+for training: box28gb1hn10r1x-0.476r1y0.864r1z-0.159r1d330r2x-0.501r2y0.140r2z0.853r2d266.equ.data
+for training: box28gb1hn10r1x0.681r1y0.404r1z-0.609r1d278r2x0.774r2y0.116r2z-0.621r2d74.equ.data
+for training: box28gb1hn10r1x-0.628r1y0.283r1z-0.724r1d243r2x-0.764r2y0.549r2z-0.336r2d333.equ.data
+for training: box28gb1hn10r1x-0.720r1y-0.356r1z-0.594r1d107r2x-0.599r2y0.784r2z-0.158r2d39.equ.data
+for training: box28gb1hn10r1x0.298r1y0.672r1z0.678r1d174r2x0.748r2y0.313r2z0.584r2d117.equ.data
+for training: box28gb1hn10r1x-0.818r1y0.503r1z-0.278r1d127r2x0.673r2y-0.243r2z-0.697r2d0.equ.data
+for training: box28gb1hn10r1x-0.625r1y-0.102r1z0.773r1d201r2x-0.161r2y0.690r2z-0.704r2d276.equ.data
+for training: box28gb1hn10r1x-0.923r1y-0.236r1z-0.301r1d123r2x0.318r2y0.599r2z0.734r2d125.equ.data
+for training: box28gb1hn10r1x-0.657r1y0.312r1z0.685r1d75r2x-0.475r2y0.489r2z0.730r2d90.equ.data
+for training: box28gb1hn10r1x0.579r1y0.228r1z0.782r1d138r2x-0.671r2y0.094r2z-0.735r2d171.equ.data
+for training: box28gb1hn10r1x-0.210r1y0.889r1z-0.406r1d284r2x-0.388r2y-0.879r2z0.275r2d352.equ.data
+for training: box28gb1hn10r1x-0.005r1y-0.852r1z-0.522r1d196r2x-0.290r2y-0.876r2z-0.384r2d70.equ.data
+for training: box28gb1hn10r1x-0.664r1y0.744r1z-0.067r1d174r2x0.616r2y0.581r2z0.530r2d285.equ.data
+for training: box28gb1hn10r1x0.522r1y0.761r1z0.384r1d37r2x-0.618r2y0.594r2z-0.513r2d240.equ.data
+for training: box28gb1hn10r1x-0.913r1y-0.348r1z-0.209r1d171r2x0.383r2y-0.574r2z0.722r2d208.equ.data
+for training: box28gb1hn10r1x0.547r1y-0.801r1z-0.242r1d129r2x-0.024r2y-0.188r2z0.981r2d279.equ.data
+for training: box28gb1hn10r1x0.387r1y0.253r1z0.886r1d324r2x-0.135r2y0.556r2z-0.819r2d180.equ.data
+for training: box28gb1hn10r1x-0.616r1y-0.350r1z-0.705r1d324r2x-0.163r2y-0.695r2z0.700r2d220.equ.data
+for training: box28gb1hn10r1x0.662r1y0.544r1z0.514r1d138r2x-0.128r2y0.696r2z-0.706r2d280.equ.data
+for training: box28gb1hn10r1x0.358r1y-0.760r1z0.540r1d45r2x0.977r2y-0.063r2z0.203r2d328.equ.data
+for training: box28gb1hn10r1x-0.026r1y-0.748r1z-0.662r1d55r2x-0.555r2y-0.711r2z0.430r2d171.equ.data
+for training: box28gb1hn10r1x0.226r1y-0.863r1z-0.449r1d19r2x0.524r2y0.735r2z-0.429r2d207.equ.data
+for training: box28gb1hn10r1x-0.328r1y0.685r1z0.649r1d176r2x0.381r2y0.675r2z0.630r2d340.equ.data
+for training: box28gb1hn10r1x0.498r1y-0.129r1z-0.857r1d309r2x0.106r2y-0.620r2z-0.776r2d165.equ.data
+for training: box28gb1hn10r1x-0.630r1y-0.651r1z0.421r1d53r2x0.137r2y0.602r2z-0.785r2d232.equ.data
+for training: box28gb1hn10r1x-0.204r1y0.288r1z-0.935r1d110r2x-0.123r2y-0.837r2z0.532r2d225.equ.data
+for training: box28gb1hn10r1x0.672r1y-0.479r1z0.564r1d40r2x-0.794r2y-0.152r2z0.587r2d5.equ.data
+for training: box28gb1hn10r1x0.081r1y-0.415r1z0.905r1d131r2x-0.873r2y0.474r2z-0.108r2d60.equ.data
+for training: box28gb1hn10r1x-0.583r1y0.475r1z0.657r1d135r2x-0.085r2y0.986r2z-0.142r2d113.equ.data
+for training: box28gb1hn10r1x0.667r1y-0.702r1z-0.245r1d246r2x-0.140r2y-0.798r2z0.585r2d349.equ.data
+for training: box28gb1hn10r1x-0.652r1y-0.657r1z-0.378r1d168r2x-0.661r2y-0.733r2z0.157r2d109.equ.data
+for training: box28gb1hn10r1x-0.809r1y-0.354r1z-0.468r1d87r2x-0.124r2y0.768r2z0.628r2d265.equ.data
+for training: box28gb1hn10r1x0.492r1y-0.512r1z-0.702r1d281r2x-0.954r2y0.026r2z0.298r2d30.equ.data
+for training: box28gb1hn10r1x-0.212r1y0.947r1z-0.237r1d160r2x0.515r2y-0.608r2z0.603r2d307.equ.data
+for training: box28gb1hn10r1x-0.244r1y-0.754r1z-0.609r1d250r2x0.454r2y-0.544r2z0.705r2d173.equ.data
+for training: box28gb1hn10r1x0.765r1y-0.089r1z0.637r1d118r2x-0.745r2y0.498r2z0.442r2d180.equ.data
+for training: box28gb1hn10r1x-0.525r1y0.821r1z-0.221r1d89r2x-0.225r2y0.780r2z0.582r2d84.equ.data
+for training: box28gb1hn10r1x0.448r1y0.777r1z-0.441r1d112r2x0.676r2y0.345r2z0.650r2d341.equ.data
+for training: box28gb1hn10r1x0.898r1y0.403r1z-0.173r1d286r2x0.982r2y0.149r2z0.108r2d131.equ.data
+for training: box28gb1hn10r1x-0.612r1y-0.620r1z-0.489r1d106r2x-0.938r2y-0.321r2z0.123r2d54.equ.data
+for training: box28gb1hn10r1x-0.271r1y-0.794r1z0.542r1d259r2x0.665r2y0.016r2z-0.746r2d302.equ.data
+for training: box28gb1hn10r1x0.681r1y-0.614r1z-0.398r1d196r2x-0.632r2y0.193r2z0.750r2d47.equ.data
+for training: box28gb1hn10r1x0.410r1y-0.882r1z-0.230r1d188r2x0.591r2y0.730r2z-0.341r2d239.equ.data
+for training: box28gb1hn10r1x-0.573r1y-0.044r1z0.817r1d284r2x0.272r2y0.941r2z-0.198r2d178.equ.data
+for training: box28gb1hn10r1x-0.696r1y-0.527r1z0.486r1d138r2x0.933r2y0.224r2z0.281r2d295.equ.data
+for training: box28gb1hn10r1x0.711r1y0.629r1z0.311r1d273r2x0.108r2y0.866r2z0.486r2d344.equ.data
+for training: box28gb1hn10r1x-0.800r1y-0.427r1z-0.421r1d260r2x0.816r2y-0.127r2z-0.562r2d141.equ.data
+for training: box28gb1hn10r1x0.626r1y-0.614r1z0.479r1d162r2x-0.419r2y0.905r2z-0.073r2d26.equ.data
+for training: box28gb1hn10r1x0.633r1y-0.015r1z-0.773r1d43r2x-0.152r2y0.727r2z0.669r2d117.equ.data
+for training: box28gb1hn10r1x-0.009r1y-0.798r1z-0.602r1d24r2x0.591r2y-0.331r2z-0.734r2d124.equ.data
+for training: box28gb1hn10r1x0.208r1y0.718r1z0.663r1d293r2x0.913r2y0.191r2z0.359r2d226.equ.data
+for training: box28gb1hn10r1x0.078r1y-0.975r1z-0.206r1d110r2x0.822r2y-0.126r2z-0.555r2d96.equ.data
+for training: box28gb1hn10r1x-0.809r1y0.537r1z0.235r1d215r2x-0.952r2y-0.271r2z0.137r2d235.equ.data
+for training: box28gb1hn10r1x-0.669r1y0.292r1z-0.683r1d319r2x-0.706r2y-0.238r2z-0.666r2d60.equ.data
+for training: box28gb1hn10r1x0.170r1y-0.250r1z-0.953r1d126r2x0.227r2y0.579r2z0.782r2d183.equ.data
+for training: box28gb1hn10r1x0.492r1y0.861r1z0.123r1d332r2x-0.794r2y-0.231r2z0.560r2d82.equ.data
+for training: box28gb1hn10r1x-0.291r1y-0.854r1z0.429r1d232r2x0.674r2y0.617r2z0.405r2d297.equ.data
+for training: box28gb1hn10r1x-0.362r1y-0.865r1z-0.345r1d105r2x-0.830r2y0.308r2z-0.463r2d81.equ.data
+for training: box28gb1hn10r1x-0.039r1y0.896r1z0.441r1d294r2x-0.311r2y0.519r2z0.795r2d260.equ.data
+for training: box28gb1hn10r1x-0.524r1y-0.371r1z-0.765r1d124r2x0.565r2y-0.127r2z-0.814r2d190.equ.data
+for training: box28gb1hn10r1x0.712r1y0.503r1z-0.488r1d166r2x-0.777r2y0.416r2z-0.471r2d25.equ.data
+for training: box28gb1hn10r1x-0.085r1y0.876r1z0.473r1d263r2x-0.505r2y-0.493r2z0.707r2d157.equ.data
+for training: box28gb1hn10r1x0.311r1y0.588r1z-0.745r1d106r2x0.749r2y0.319r2z0.579r2d56.equ.data
+for training: box28gb1hn10r1x-0.714r1y-0.564r1z-0.412r1d208r2x0.460r2y0.838r2z-0.292r2d39.equ.data
+for training: box28gb1hn10r1x-0.128r1y0.683r1z0.719r1d105r2x0.261r2y0.807r2z-0.528r2d37.equ.data
+for training: box28gb1hn10r1x0.574r1y-0.257r1z-0.776r1d204r2x-0.181r2y-0.728r2z0.660r2d33.equ.data
+for training: box28gb1hn10r1x-0.255r1y-0.784r1z-0.565r1d16r2x0.149r2y0.195r2z-0.969r2d340.equ.data
+for training: box28gb1hn10r1x-0.904r1y-0.338r1z-0.260r1d178r2x0.705r2y-0.495r2z-0.506r2d234.equ.data
+for training: box28gb1hn10r1x0.226r1y-0.131r1z-0.965r1d184r2x0.180r2y0.585r2z-0.790r2d170.equ.data
+for validation: box28gb1hn10r1x0.549r1y0.518r1z0.655r1d73r2x-0.173r2y0.806r2z0.564r2d22.equ.data
+for validation: box28gb1hn10r1x0.434r1y0.312r1z-0.845r1d97r2x-0.028r2y-0.127r2z0.991r2d199.equ.data
+for validation: box28gb1hn10r1x-0.641r1y-0.764r1z0.070r1d7r2x-0.568r2y0.358r2z-0.740r2d336.equ.data
+for validation: box28gb1hn10r1x0.574r1y-0.505r1z0.643r1d284r2x-0.561r2y-0.158r2z0.812r2d163.equ.data
+for validation: box28gb1hn10r1x-0.627r1y0.357r1z0.692r1d114r2x-0.504r2y-0.127r2z0.854r2d356.equ.data
+for validation: box28gb1hn10r1x0.180r1y-0.313r1z0.932r1d55r2x0.926r2y-0.341r2z0.158r2d84.equ.data
+for validation: box28gb1hn10r1x0.651r1y-0.668r1z-0.359r1d20r2x-0.091r2y0.991r2z0.097r2d47.equ.data
+for validation: box28gb1hn10r1x0.787r1y-0.359r1z-0.500r1d55r2x0.466r2y-0.874r2z-0.129r2d26.equ.data
+for validation: box28gb1hn10r1x-0.810r1y-0.440r1z-0.386r1d198r2x-0.191r2y-0.517r2z-0.833r2d20.equ.data
+for validation: box28gb1hn10r1x0.979r1y-0.121r1z0.162r1d199r2x0.609r2y-0.574r2z-0.547r2d208.equ.data
+for validation: box28gb1hn10r1x0.047r1y-0.900r1z-0.432r1d85r2x-0.603r2y0.571r2z0.556r2d100.equ.data
+for validation: box28gb1hn10r1x0.883r1y0.429r1z-0.188r1d185r2x-0.319r2y-0.793r2z0.518r2d270.equ.data
+for validation: box28gb1hn10r1x0.359r1y0.601r1z0.713r1d344r2x0.469r2y0.216r2z0.855r2d328.equ.data
+for validation: box28gb1hn10r1x-0.300r1y0.925r1z-0.229r1d242r2x0.795r2y-0.030r2z0.605r2d94.equ.data
+for validation: box28gb1hn10r1x0.678r1y0.358r1z0.641r1d207r2x0.202r2y-0.669r2z-0.714r2d182.equ.data
+for validation: box28gb1hn10r1x0.483r1y-0.377r1z0.789r1d250r2x0.911r2y0.411r2z-0.017r2d8.equ.data
+for validation: box28gb1hn10r1x0.912r1y-0.301r1z-0.278r1d117r2x-0.549r2y-0.080r2z-0.831r2d231.equ.data
+for validation: box28gb1hn10r1x0.865r1y0.362r1z-0.346r1d77r2x-0.505r2y0.862r2z0.008r2d226.equ.data
+for validation: box28gb1hn10r1x0.609r1y-0.496r1z-0.617r1d346r2x0.545r2y0.037r2z0.837r2d296.equ.data
+for validation: box28gb1hn10r1x-0.746r1y0.621r1z-0.237r1d107r2x-0.519r2y-0.763r2z0.384r2d23.equ.data
+for validation: box28gb1hn10r1x0.033r1y0.899r1z0.435r1d65r2x0.998r2y-0.058r2z0.008r2d263.equ.data
+for validation: box28gb1hn10r1x0.659r1y0.738r1z-0.140r1d324r2x-0.700r2y0.713r2z-0.027r2d81.equ.data
+for validation: box28gb1hn10r1x0.491r1y-0.382r1z-0.782r1d349r2x0.870r2y-0.014r2z0.492r2d41.equ.data
+for validation: box28gb1hn10r1x0.931r1y0.248r1z0.265r1d261r2x0.784r2y-0.604r2z0.140r2d206.equ.data
+for validation: box28gb1hn10r1x0.320r1y0.536r1z0.780r1d226r2x-0.043r2y0.795r2z0.604r2d72.equ.data
+for validation: box28gb1hn10r1x0.477r1y-0.874r1z0.092r1d95r2x0.680r2y0.367r2z-0.634r2d324.equ.data
+for validation: box28gb1hn10r1x0.818r1y0.523r1z-0.236r1d25r2x0.586r2y-0.053r2z-0.808r2d175.equ.data
+for validation: box28gb1hn10r1x0.883r1y0.377r1z0.278r1d189r2x0.535r2y-0.638r2z-0.552r2d199.equ.data
+for validation: box28gb1hn10r1x-0.257r1y-0.835r1z-0.484r1d194r2x0.103r2y-0.858r2z0.503r2d323.equ.data
+for validation: box28gb1hn10r1x-0.595r1y-0.562r1z0.573r1d312r2x-0.520r2y0.818r2z-0.241r2d197.equ.data
+for validation: box28gb1hn10r1x0.397r1y0.653r1z0.643r1d279r2x0.754r2y-0.145r2z-0.640r2d270.equ.data
+for validation: box28gb1hn10r1x0.770r1y0.142r1z-0.620r1d259r2x0.938r2y-0.338r2z-0.066r2d262.equ.data
+for validation: box28gb1hn10r1x-0.292r1y-0.927r1z-0.233r1d22r2x0.799r2y0.254r2z-0.544r2d159.equ.data
+for validation: box28gb1hn10r1x0.428r1y0.343r1z0.835r1d311r2x0.892r2y-0.003r2z-0.451r2d258.equ.data
+for validation: box28gb1hn10r1x0.107r1y0.989r1z-0.102r1d146r2x-0.823r2y-0.301r2z-0.481r2d132.equ.data
+for validation: box28gb1hn10r1x0.339r1y0.807r1z0.483r1d231r2x-0.763r2y-0.590r2z0.263r2d119.equ.data
+for validation: box28gb1hn10r1x0.325r1y-0.907r1z-0.266r1d230r2x0.718r2y0.570r2z-0.398r2d343.equ.data
+for validation: box28gb1hn10r1x-0.746r1y0.654r1z0.123r1d225r2x-0.878r2y-0.091r2z0.469r2d151.equ.data
+for validation: box28gb1hn10r1x0.548r1y-0.683r1z-0.482r1d188r2x0.227r2y0.279r2z0.932r2d48.equ.data
+for validation: box28gb1hn10r1x0.703r1y-0.703r1z-0.100r1d64r2x0.811r2y-0.380r2z-0.444r2d218.equ.data
+for validation: box28gb1hn10r1x0.821r1y0.568r1z-0.041r1d263r2x-0.669r2y-0.354r2z-0.652r2d316.equ.data
+for validation: box28gb1hn10r1x-0.227r1y-0.618r1z0.752r1d130r2x-0.046r2y-0.413r2z-0.909r2d259.equ.data
+for validation: box28gb1hn10r1x0.519r1y-0.799r1z0.303r1d114r2x-0.855r2y0.199r2z0.477r2d189.equ.data
+for validation: box28gb1hn10r1x-0.369r1y-0.247r1z-0.895r1d250r2x-0.678r2y-0.678r2z0.283r2d271.equ.data
+for validation: box28gb1hn10r1x-0.345r1y0.789r1z0.507r1d302r2x-0.806r2y-0.511r2z-0.296r2d343.equ.data
+for validation: box28gb1hn10r1x-0.836r1y-0.093r1z-0.539r1d28r2x-0.307r2y-0.627r2z-0.714r2d152.equ.data
+for validation: box28gb1hn10r1x-0.798r1y-0.384r1z-0.463r1d309r2x0.642r2y0.253r2z-0.723r2d360.equ.data
+for validation: box28gb1hn10r1x-0.416r1y0.403r1z0.814r1d30r2x-0.546r2y-0.718r2z0.430r2d320.equ.data
+for validation: box28gb1hn10r1x-0.090r1y-0.696r1z0.712r1d145r2x0.445r2y-0.293r2z0.845r2d161.equ.data
+for validation: box28gb1hn10r1x-0.134r1y-0.989r1z-0.056r1d64r2x-0.327r2y-0.863r2z0.383r2d104.equ.data
+for validation: box28gb1hn10r1x-0.003r1y0.878r1z0.478r1d176r2x-0.279r2y0.878r2z-0.386r2d184.equ.data
+for validation: box28gb1hn10r1x0.435r1y-0.870r1z-0.228r1d314r2x0.686r2y-0.260r2z-0.679r2d81.equ.data
+for validation: box28gb1hn10r1x-0.293r1y-0.325r1z-0.899r1d212r2x0.308r2y-0.950r2z0.023r2d208.equ.data
+for validation: box28gb1hn10r1x0.121r1y0.744r1z-0.656r1d157r2x0.466r2y0.567r2z-0.678r2d264.equ.data
+for validation: box28gb1hn10r1x0.670r1y-0.426r1z-0.606r1d215r2x-0.598r2y-0.423r2z0.680r2d149.equ.data
+for validation: box28gb1hn10r1x0.424r1y0.644r1z0.636r1d274r2x0.052r2y0.666r2z-0.743r2d199.equ.data
+for validation: box28gb1hn10r1x0.297r1y0.646r1z0.702r1d100r2x-0.901r2y0.360r2z-0.239r2d136.equ.data
+for validation: box28gb1hn10r1x-0.784r1y-0.617r1z0.065r1d107r2x0.740r2y0.192r2z-0.643r2d235.equ.data
+for validation: box28gb1hn10r1x-0.562r1y-0.699r1z0.441r1d125r2x-0.426r2y0.704r2z0.567r2d146.equ.data
+for validation: box28gb1hn10r1x0.225r1y-0.029r1z0.973r1d313r2x0.622r2y0.019r2z0.782r2d34.equ.data
+for validation: box28gb1hn10r1x-0.532r1y0.455r1z0.713r1d184r2x0.553r2y-0.696r2z0.456r2d131.equ.data
+for validation: box28gb1hn10r1x0.179r1y-0.700r1z0.691r1d306r2x0.297r2y0.780r2z0.549r2d219.equ.data
+for validation: box28gb1hn10r1x0.329r1y0.364r1z-0.871r1d27r2x-0.423r2y0.585r2z0.691r2d47.equ.data
+for validation: box28gb1hn10r1x-0.504r1y0.731r1z0.458r1d179r2x0.704r2y-0.377r2z0.601r2d21.equ.data
+for validation: box28gb1hn10r1x0.261r1y0.628r1z0.732r1d255r2x0.044r2y0.991r2z-0.123r2d158.equ.data
+for validation: box28gb1hn10r1x-0.707r1y-0.693r1z0.135r1d55r2x-0.347r2y0.589r2z0.729r2d234.equ.data
+for validation: box28gb1hn10r1x-0.450r1y-0.594r1z0.666r1d245r2x0.724r2y0.097r2z-0.682r2d10.equ.data
+for validation: box28gb1hn10r1x-0.613r1y-0.431r1z-0.661r1d35r2x0.231r2y-0.590r2z0.773r2d355.equ.data
+for validation: box28gb1hn10r1x-0.128r1y0.714r1z-0.687r1d244r2x-0.188r2y0.729r2z-0.657r2d0.equ.data
+for validation: box28gb1hn10r1x0.720r1y-0.544r1z-0.430r1d76r2x-0.973r2y0.229r2z0.000r2d154.equ.data
+for validation: box28gb1hn10r1x-0.458r1y0.572r1z-0.679r1d280r2x-0.369r2y0.700r2z-0.611r2d140.equ.data
+for validation: box28gb1hn10r1x-0.280r1y-0.822r1z-0.494r1d127r2x0.753r2y-0.443r2z-0.485r2d291.equ.data
+for validation: box28gb1hn10r1x0.247r1y0.961r1z-0.116r1d16r2x0.502r2y0.585r2z-0.636r2d86.equ.data
+for validation: box28gb1hn10r1x0.998r1y-0.027r1z-0.044r1d161r2x0.032r2y-0.180r2z-0.983r2d83.equ.data
+for validation: box28gb1hn10r1x0.781r1y-0.598r1z-0.178r1d185r2x-0.664r2y0.729r2z-0.163r2d219.equ.data
+for validation: box28gb1hn10r1x0.783r1y-0.275r1z-0.557r1d316r2x-0.004r2y0.239r2z-0.971r2d50.equ.data
+for validation: box28gb1hn10r1x-0.172r1y0.714r1z-0.678r1d330r2x-0.405r2y0.709r2z0.576r2d297.equ.data
+for validation: box28gb1hn10r1x0.293r1y-0.747r1z0.595r1d277r2x0.625r2y0.555r2z-0.547r2d160.equ.data
+for validation: box28gb1hn10r1x-0.085r1y-0.164r1z0.982r1d353r2x0.799r2y-0.448r2z0.399r2d69.equ.data
+for validation: box28gb1hn10r1x0.876r1y-0.426r1z-0.224r1d258r2x0.929r2y0.366r2z-0.048r2d205.equ.data
+for validation: box28gb1hn10r1x0.788r1y0.564r1z0.245r1d5r2x-0.279r2y-0.246r2z0.928r2d297.equ.data
+for validation: box28gb1hn10r1x0.633r1y-0.727r1z0.262r1d329r2x-0.895r2y0.014r2z0.444r2d53.equ.data
+for validation: box28gb1hn10r1x0.750r1y0.450r1z-0.483r1d329r2x-0.435r2y-0.558r2z0.706r2d360.equ.data
+for validation: box28gb1hn10r1x0.600r1y0.667r1z0.440r1d298r2x-0.545r2y-0.747r2z-0.380r2d83.equ.data
+for validation: box28gb1hn10r1x-0.506r1y0.722r1z-0.470r1d358r2x0.492r2y-0.591r2z0.638r2d129.equ.data
+for validation: box28gb1hn10r1x-0.856r1y0.509r1z-0.085r1d39r2x0.313r2y-0.850r2z-0.423r2d124.equ.data
+for validation: box28gb1hn10r1x0.338r1y0.940r1z0.034r1d222r2x-0.440r2y-0.289r2z0.849r2d33.equ.data
+for validation: box28gb1hn10r1x0.604r1y-0.149r1z0.782r1d132r2x-0.637r2y0.692r2z-0.338r2d336.equ.data
+for validation: box28gb1hn10r1x-0.591r1y0.289r1z0.752r1d262r2x0.748r2y0.385r2z-0.540r2d139.equ.data
+for validation: box28gb1hn10r1x0.235r1y-0.054r1z0.970r1d20r2x0.939r2y0.340r2z0.033r2d314.equ.data
+for validation: box28gb1hn10r1x-0.554r1y-0.344r1z0.757r1d340r2x-0.549r2y-0.483r2z0.681r2d239.equ.data
+for validation: box28gb1hn10r1x0.541r1y0.711r1z-0.448r1d310r2x0.849r2y-0.149r2z0.506r2d216.equ.data
+for validation: box28gb1hn10r1x0.068r1y-0.997r1z0.025r1d136r2x0.986r2y-0.135r2z-0.094r2d228.equ.data
+for validation: box28gb1hn10r1x0.366r1y-0.421r1z0.829r1d80r2x-0.078r2y0.115r2z-0.990r2d171.equ.data
+for validation: box28gb1hn10r1x-0.596r1y0.478r1z0.644r1d355r2x-0.769r2y0.527r2z-0.360r2d2.equ.data
+for validation: box28gb1hn10r1x0.708r1y0.126r1z0.694r1d42r2x-0.517r2y-0.435r2z0.736r2d319.equ.data
+for validation: box28gb1hn10r1x0.535r1y0.709r1z-0.458r1d231r2x-0.733r2y0.595r2z-0.328r2d355.equ.data
+for validation: box28gb1hn10r1x0.866r1y0.487r1z0.105r1d116r2x-0.297r2y0.775r2z0.556r2d180.equ.data
+for validation: box28gb1hn10r1x0.392r1y0.458r1z0.797r1d157r2x0.305r2y0.704r2z-0.641r2d9.equ.data
+for validation: box28gb1hn10r1x-0.547r1y0.074r1z0.833r1d241r2x0.518r2y0.278r2z-0.808r2d276.equ.data
+for validation: box28gb1hn10r1x0.129r1y0.616r1z-0.776r1d277r2x-0.729r2y0.531r2z-0.430r2d277.equ.data
+for validation: box28gb1hn10r1x-0.531r1y-0.517r1z0.670r1d43r2x0.553r2y-0.722r2z-0.414r2d86.equ.data
+for validation: box28gb1hn10r1x0.344r1y0.849r1z-0.400r1d314r2x-0.593r2y-0.552r2z-0.585r2d250.equ.data
+for validation: box28gb1hn10r1x-0.422r1y0.274r1z-0.863r1d10r2x0.234r2y0.901r2z0.364r2d226.equ.data
+for validation: box28gb1hn10r1x0.694r1y-0.041r1z-0.718r1d76r2x0.442r2y0.365r2z-0.818r2d24.equ.data
+for validation: box28gb1hn10r1x0.721r1y0.552r1z-0.416r1d263r2x0.823r2y-0.010r2z0.566r2d98.equ.data
+for validation: box28gb1hn10r1x-0.239r1y0.815r1z0.526r1d68r2x-0.669r2y0.700r2z0.248r2d113.equ.data
+for validation: box28gb1hn10r1x-0.630r1y-0.136r1z-0.764r1d329r2x-0.006r2y0.291r2z-0.956r2d311.equ.data
+for validation: box28gb1hn10r1x0.917r1y-0.088r1z-0.387r1d18r2x0.604r2y-0.441r2z0.662r2d99.equ.data
+for validation: box28gb1hn10r1x-0.257r1y0.450r1z-0.855r1d203r2x0.621r2y0.079r2z-0.779r2d290.equ.data
+for validation: box28gb1hn10r1x0.539r1y0.841r1z-0.039r1d7r2x0.419r2y-0.810r2z-0.409r2d344.equ.data
+for validation: box28gb1hn10r1x-0.726r1y-0.003r1z-0.686r1d73r2x0.478r2y0.149r2z-0.865r2d240.equ.data
+for validation: box28gb1hn10r1x-0.617r1y-0.497r1z0.609r1d30r2x-0.595r2y-0.526r2z-0.606r2d318.equ.data
+for validation: box28gb1hn10r1x-0.340r1y0.758r1z-0.555r1d33r2x0.783r2y-0.612r2z-0.105r2d180.equ.data
+for validation: box28gb1hn10r1x0.996r1y0.040r1z-0.076r1d337r2x0.575r2y0.297r2z0.761r2d129.equ.data
+for validation: box28gb1hn10r1x-0.354r1y0.823r1z0.442r1d0r2x-0.346r2y0.488r2z-0.800r2d156.equ.data
+for validation: box28gb1hn10r1x-0.758r1y-0.451r1z-0.470r1d46r2x-0.269r2y0.773r2z-0.574r2d275.equ.data
+for validation: box28gb1hn10r1x0.665r1y0.390r1z0.635r1d57r2x-0.446r2y-0.603r2z-0.661r2d274.equ.data
+for validation: box28gb1hn10r1x-0.300r1y0.929r1z-0.213r1d311r2x0.420r2y0.571r2z-0.704r2d251.equ.data
+for validation: box28gb1hn10r1x0.182r1y0.477r1z0.859r1d50r2x-0.082r2y0.043r2z0.995r2d182.equ.data
+for validation: box28gb1hn10r1x0.305r1y0.256r1z-0.917r1d45r2x0.084r2y-0.995r2z-0.105r2d301.equ.data
+for validation: box28gb1hn10r1x-0.562r1y0.422r1z-0.711r1d348r2x0.473r2y0.586r2z-0.657r2d88.equ.data
+for validation: box28gb1hn10r1x-0.625r1y0.629r1z0.460r1d337r2x-0.778r2y0.014r2z0.627r2d6.equ.data
+for validation: box28gb1hn10r1x-0.938r1y-0.342r1z0.052r1d36r2x0.998r2y-0.032r2z0.050r2d104.equ.data
+for validation: box28gb1hn10r1x-0.638r1y-0.286r1z0.714r1d328r2x0.702r2y-0.549r2z0.452r2d285.equ.data
+for validation: box28gb1hn10r1x0.544r1y-0.501r1z-0.672r1d51r2x-0.651r2y-0.638r2z-0.409r2d266.equ.data
+for validation: box28gb1hn10r1x-0.751r1y-0.007r1z-0.659r1d352r2x-0.262r2y-0.476r2z-0.839r2d223.equ.data
+for validation: box28gb1hn10r1x0.748r1y0.624r1z0.225r1d337r2x-0.446r2y0.452r2z-0.772r2d302.equ.data
+for testing: box28gb1hn10r1x-0.714r1y0.685r1z-0.136r1d323r2x-0.863r2y-0.265r2z0.428r2d33.equ.data
+for testing: box28gb1hn10r1x0.281r1y0.519r1z0.806r1d17r2x0.459r2y-0.244r2z0.854r2d223.equ.data
+for testing: box28gb1hn10r1x0.996r1y-0.038r1z0.068r1d75r2x0.827r2y0.348r2z-0.439r2d293.equ.data
+for testing: box28gb1hn10r1x0.851r1y0.466r1z-0.238r1d236r2x0.732r2y-0.631r2z0.255r2d298.equ.data
+for testing: box28gb1hn10r1x0.980r1y0.077r1z0.183r1d160r2x-0.873r2y-0.182r2z-0.451r2d64.equ.data
+for testing: box28gb1hn10r1x0.495r1y0.051r1z0.866r1d84r2x-0.866r2y0.162r2z-0.472r2d356.equ.data
+for testing: box28gb1hn10r1x-0.642r1y-0.407r1z0.649r1d160r2x0.590r2y0.108r2z-0.800r2d49.equ.data
+for testing: box28gb1hn10r1x-0.066r1y-0.643r1z-0.762r1d65r2x-0.735r2y-0.614r2z-0.283r2d354.equ.data
+for testing: box28gb1hn10r1x-0.662r1y0.747r1z0.058r1d7r2x0.084r2y0.978r2z0.186r2d191.equ.data
+for testing: box28gb1hn10r1x0.546r1y0.730r1z-0.411r1d25r2x0.202r2y0.285r2z-0.936r2d116.equ.data
+for testing: box28gb1hn10r1x-0.910r1y-0.412r1z-0.005r1d30r2x-0.501r2y0.775r2z-0.384r2d135.equ.data
+for testing: box28gb1hn10r1x-0.709r1y0.465r1z0.528r1d177r2x0.981r2y0.137r2z-0.132r2d77.equ.data
+for testing: box28gb1hn10r1x-0.506r1y0.657r1z0.557r1d307r2x-0.528r2y-0.299r2z-0.794r2d70.equ.data
+for testing: box28gb1hn10r1x-0.556r1y0.500r1z0.663r1d140r2x-0.789r2y-0.001r2z0.613r2d28.equ.data
+for testing: box28gb1hn10r1x-0.889r1y-0.330r1z0.315r1d208r2x-0.577r2y0.202r2z0.791r2d31.equ.data
+for testing: box28gb1hn10r1x-0.417r1y-0.545r1z0.726r1d50r2x0.535r2y0.728r2z0.427r2d352.equ.data
+for testing: box28gb1hn10r1x0.816r1y-0.499r1z0.288r1d27r2x-0.558r2y0.646r2z-0.519r2d121.equ.data
+for testing: box28gb1hn10r1x0.931r1y0.270r1z0.244r1d91r2x0.399r2y0.822r2z0.404r2d211.equ.data
+for testing: box28gb1hn10r1x-0.465r1y-0.738r1z0.488r1d300r2x-0.481r2y0.655r2z0.581r2d218.equ.data
+for testing: box28gb1hn10r1x0.621r1y0.275r1z-0.733r1d76r2x-0.587r2y-0.466r2z0.661r2d152.equ.data
+for testing: box28gb1hn10r1x-0.359r1y0.625r1z-0.692r1d60r2x-0.626r2y-0.406r2z-0.665r2d114.equ.data
+for testing: box28gb1hn10r1x-0.944r1y-0.075r1z-0.320r1d314r2x0.128r2y-0.427r2z0.894r2d282.equ.data
+for testing: box28gb1hn10r1x0.779r1y0.625r1z0.003r1d180r2x0.543r2y-0.645r2z-0.536r2d67.equ.data
+for testing: box28gb1hn10r1x0.672r1y0.388r1z-0.629r1d258r2x-0.704r2y-0.693r2z0.155r2d273.equ.data
+for testing: box28gb1hn10r1x0.075r1y0.995r1z-0.066r1d163r2x-0.698r2y-0.666r2z0.259r2d307.equ.data
+for testing: box28gb1hn10r1x-0.726r1y0.219r1z0.650r1d33r2x-0.918r2y-0.318r2z0.233r2d256.equ.data
+for testing: box28gb1hn10r1x-0.247r1y0.002r1z-0.968r1d170r2x0.680r2y-0.730r2z-0.060r2d279.equ.data
+for testing: box28gb1hn10r1x0.077r1y-0.928r1z-0.364r1d159r2x-0.508r2y-0.857r2z0.079r2d200.equ.data
+for testing: box28gb1hn10r1x0.554r1y-0.527r1z0.643r1d0r2x-0.042r2y-0.998r2z0.030r2d224.equ.data
+for testing: box28gb1hn10r1x-0.613r1y0.759r1z-0.219r1d51r2x0.655r2y-0.013r2z0.754r2d335.equ.data
+for testing: box28gb1hn10r1x0.832r1y0.220r1z-0.508r1d301r2x0.389r2y-0.916r2z0.089r2d192.equ.data
+for testing: box28gb1hn10r1x0.481r1y-0.630r1z0.608r1d170r2x-0.675r2y-0.345r2z0.651r2d289.equ.data
+for testing: box28gb1hn10r1x0.795r1y0.586r1z-0.153r1d137r2x0.499r2y0.236r2z-0.833r2d326.equ.data
+for testing: box28gb1hn10r1x0.836r1y0.467r1z-0.286r1d53r2x-0.234r2y-0.553r2z0.799r2d82.equ.data
+for testing: box28gb1hn10r1x0.538r1y0.791r1z0.288r1d235r2x0.143r2y0.740r2z-0.657r2d216.equ.data
+Epoch 1/256, Train Loss: 1.6850944811647588, Vali Loss: 1.09948068857193
+Epoch 2/256, Train Loss: 0.87214656309648, Vali Loss: 0.9738814532756805
+Epoch 3/256, Train Loss: 0.7324113927104257, Vali Loss: 0.807330310344696
+Epoch 4/256, Train Loss: 0.538252900947224, Vali Loss: 0.35423867404460907
+Epoch 5/256, Train Loss: 0.43107124079357495, Vali Loss: 0.3198101446032524
+Epoch 6/256, Train Loss: 0.3905101770704443, Vali Loss: 0.3251955658197403
+Epoch 7/256, Train Loss: 0.36952611939473584, Vali Loss: 0.3183504343032837
+Epoch 8/256, Train Loss: 0.35326783629980957, Vali Loss: 0.2966730296611786
+Epoch 9/256, Train Loss: 0.37059737606482074, Vali Loss: 0.36123548448085785
+Epoch 10/256, Train Loss: 0.37175337970256805, Vali Loss: 0.29174472764134407
+Epoch 11/256, Train Loss: 0.3445753671906211, Vali Loss: 0.2968148738145828
+Epoch 12/256, Train Loss: 0.3475526896390048, Vali Loss: 0.28442878648638725
+Epoch 13/256, Train Loss: 0.333516120233319, Vali Loss: 0.2901108153164387
+Epoch 14/256, Train Loss: 0.3221063031391664, Vali Loss: 0.26534435898065567
+Epoch 15/256, Train Loss: 0.317873631011356, Vali Loss: 0.2872508428990841
+Epoch 16/256, Train Loss: 0.3288653479381041, Vali Loss: 0.5985269993543625
+Epoch 17/256, Train Loss: 0.4325755103067918, Vali Loss: 0.39940527081489563
+Epoch 18/256, Train Loss: 0.3441471870649945, Vali Loss: 0.2782396078109741
+Epoch 19/256, Train Loss: 0.3223301741209897, Vali Loss: 0.26846613362431526
+Epoch 20/256, Train Loss: 0.30841138620268216, Vali Loss: 0.2671245336532593
+Epoch 21/256, Train Loss: 0.2897241562604904, Vali Loss: 0.2781471982598305
+Epoch 22/256, Train Loss: 0.3310046168890866, Vali Loss: 0.240007683634758
+Epoch 23/256, Train Loss: 0.2820156446912072, Vali Loss: 0.23828911408782005
+Epoch 24/256, Train Loss: 0.29280456561933865, Vali Loss: 0.23932703025639057
+Epoch 25/256, Train Loss: 0.2677722532640804, Vali Loss: 0.28770510479807854
+Epoch 26/256, Train Loss: 0.24925483627752823, Vali Loss: 0.19479212537407875
+Epoch 27/256, Train Loss: 0.31217706948518753, Vali Loss: 0.267181683331728
+Epoch 28/256, Train Loss: 0.30889112840999255, Vali Loss: 0.21098178811371326
+Epoch 29/256, Train Loss: 0.2829788855530999, Vali Loss: 0.208949102088809
+Epoch 30/256, Train Loss: 0.24321345646273007, Vali Loss: 0.1852460838854313
+Epoch 31/256, Train Loss: 0.21451328762552954, Vali Loss: 0.1713540107011795
+Epoch 32/256, Train Loss: 0.23760750991376964, Vali Loss: 0.2026863731443882
+Epoch 33/256, Train Loss: 0.2021240307526155, Vali Loss: 0.20509802922606468
+Epoch 34/256, Train Loss: 0.2155412123961882, Vali Loss: 0.18963798880577087
+Epoch 35/256, Train Loss: 0.18452082777565176, Vali Loss: 0.1480102203786373
+Epoch 36/256, Train Loss: 0.18020608614791522, Vali Loss: 0.13775774091482162
+Epoch 37/256, Train Loss: 0.17609124901619824, Vali Loss: 0.20531365647912025
+Epoch 38/256, Train Loss: 0.16845947842706332, Vali Loss: 0.25578174367547035
+Epoch 39/256, Train Loss: 0.20224548469890247, Vali Loss: 0.14619970880448818
+Epoch 40/256, Train Loss: 0.19353481449864127, Vali Loss: 0.15700414031744003
+Epoch 41/256, Train Loss: 0.18251350047913464, Vali Loss: 0.1827753409743309
+Epoch 42/256, Train Loss: 0.1829513521357016, Vali Loss: 0.14819399639964104
+Epoch 43/256, Train Loss: 0.1624716337431561, Vali Loss: 0.13517573662102222
+Epoch 44/256, Train Loss: 0.1653621487996795, Vali Loss: 0.12721464224159718
+Epoch 45/256, Train Loss: 0.16417744349349628, Vali Loss: 0.14656623266637325
+Epoch 46/256, Train Loss: 0.1700373271649534, Vali Loss: 0.14488967135548592
+Epoch 47/256, Train Loss: 0.16667340086265045, Vali Loss: 0.1512858998030424
+Epoch 48/256, Train Loss: 0.16915717720985413, Vali Loss: 0.12789513356983662
+Epoch 49/256, Train Loss: 0.15933885763991962, Vali Loss: 0.14629399962723255
+Epoch 50/256, Train Loss: 0.17039607465267181, Vali Loss: 0.20482122525572777
+Epoch 51/256, Train Loss: 0.17121841352094302, Vali Loss: 0.17107388004660606
+Epoch 52/256, Train Loss: 0.1625061570243402, Vali Loss: 0.15929919853806496
+Epoch 53/256, Train Loss: 0.16733450239354913, Vali Loss: 0.1388533990830183
+Epoch 54/256, Train Loss: 0.15978235683657907, Vali Loss: 0.1434362195432186
+Epoch 55/256, Train Loss: 0.14965488829395987, Vali Loss: 0.14239998906850815
+Epoch 56/256, Train Loss: 0.1409676569429311, Vali Loss: 0.12065677717328072
+Epoch 57/256, Train Loss: 0.16079644858837128, Vali Loss: 0.1459607295691967
+Epoch 58/256, Train Loss: 0.16754537922414867, Vali Loss: 0.14046381786465645
+Epoch 59/256, Train Loss: 0.1547956778244539, Vali Loss: 0.12503145076334476
+Epoch 60/256, Train Loss: 0.14891965958205136, Vali Loss: 0.12528554163873196
+Epoch 61/256, Train Loss: 0.152989693663337, Vali Loss: 0.1262045968323946
+Epoch 62/256, Train Loss: 0.1439044021747329, Vali Loss: 0.14465289376676083
+Epoch 63/256, Train Loss: 0.1537321921099316, Vali Loss: 0.18476928770542145
+Epoch 64/256, Train Loss: 0.1645874414931644, Vali Loss: 0.13104774989187717
+Epoch 65/256, Train Loss: 0.16432105546647852, Vali Loss: 0.12771746329963207
+Epoch 66/256, Train Loss: 0.1459890753030777, Vali Loss: 0.15689144283533096
+Epoch 67/256, Train Loss: 0.15104777162725275, Vali Loss: 0.1288038231432438
+Epoch 68/256, Train Loss: 0.14749856293201447, Vali Loss: 0.13724921084940434
+Epoch 69/256, Train Loss: 0.14097971401431345, Vali Loss: 0.1855192929506302
+Epoch 70/256, Train Loss: 0.15105910463766617, Vali Loss: 0.11954272538423538
+Epoch 71/256, Train Loss: 0.1338824758475477, Vali Loss: 0.1224196944385767
+Epoch 72/256, Train Loss: 0.13204980404539543, Vali Loss: 0.13434607535600662
+Epoch 73/256, Train Loss: 0.1319107193161141, Vali Loss: 0.1182385552674532
+Epoch 74/256, Train Loss: 0.1331942081451416, Vali Loss: 0.13385230861604214
+Epoch 75/256, Train Loss: 0.13695178384130652, Vali Loss: 0.11914769560098648
+Epoch 76/256, Train Loss: 0.12086953967809677, Vali Loss: 0.10923904925584793
+Epoch 77/256, Train Loss: 0.1267767734825611, Vali Loss: 0.10784065537154675
+Epoch 78/256, Train Loss: 0.11985520137981935, Vali Loss: 0.11017721332609653
+Epoch 79/256, Train Loss: 0.13226327367804266, Vali Loss: 0.17978156358003616
+Epoch 80/256, Train Loss: 0.28786705705252563, Vali Loss: 0.4409211575984955
+Epoch 81/256, Train Loss: 0.3950449810786681, Vali Loss: 0.23563970625400543
+Epoch 82/256, Train Loss: 0.3212743550539017, Vali Loss: 0.16644757986068726
+Epoch 83/256, Train Loss: 0.2247776517813856, Vali Loss: 0.16426109708845615
+Epoch 84/256, Train Loss: 0.16227327422662216, Vali Loss: 0.1194162666797638
+Epoch 85/256, Train Loss: 0.1539395268667828, Vali Loss: 0.13368168286979198
+Epoch 86/256, Train Loss: 0.1718942726200277, Vali Loss: 0.11643172241747379
+Epoch 87/256, Train Loss: 0.1607503897764466, Vali Loss: 0.1313105020672083
+Epoch 88/256, Train Loss: 0.15566937896338376, Vali Loss: 0.17139768600463867
+Epoch 89/256, Train Loss: 0.1435359608043324, Vali Loss: 0.11326229944825172
+Epoch 90/256, Train Loss: 0.13705318759788165, Vali Loss: 0.11281693540513515
+Epoch 91/256, Train Loss: 0.1252804005687887, Vali Loss: 0.12609948217868805
+Epoch 92/256, Train Loss: 0.14190047708424655, Vali Loss: 0.12139544263482094
+Epoch 93/256, Train Loss: 0.14663442224264145, Vali Loss: 0.1098867915570736
+Epoch 94/256, Train Loss: 0.15715888278050857, Vali Loss: 0.11618745513260365
+Epoch 95/256, Train Loss: 0.13416839458725668, Vali Loss: 0.11761202476918697
+Epoch 96/256, Train Loss: 0.13982887972484936, Vali Loss: 0.14450328424572945
+Epoch 97/256, Train Loss: 0.1427791491150856, Vali Loss: 0.11177792958915234
+Epoch 98/256, Train Loss: 0.12399013137275522, Vali Loss: 0.11311621591448784
+Epoch 99/256, Train Loss: 0.12473099915818735, Vali Loss: 0.1175132468342781
+Epoch 100/256, Train Loss: 0.11953207003799352, Vali Loss: 0.10617911070585251
+Epoch 101/256, Train Loss: 0.12046914818612012, Vali Loss: 0.11627914011478424
+Epoch 102/256, Train Loss: 0.12026366726918654, Vali Loss: 0.11378804966807365
+Epoch 103/256, Train Loss: 0.16498006609353152, Vali Loss: 0.1417144574224949
+Epoch 104/256, Train Loss: 0.14776228842410175, Vali Loss: 0.1327008120715618
+Epoch 105/256, Train Loss: 0.12360481308265166, Vali Loss: 0.1403340883553028
+Epoch 106/256, Train Loss: 0.12279720468954607, Vali Loss: 0.11288581043481827
+Epoch 107/256, Train Loss: 0.11400191350416704, Vali Loss: 0.12858358956873417
+Epoch 108/256, Train Loss: 0.11154530129649422, Vali Loss: 0.10251645743846893
+Epoch 109/256, Train Loss: 0.11136058887297456, Vali Loss: 0.10864358209073544
+Epoch 110/256, Train Loss: 0.11197951639240439, Vali Loss: 0.09900886006653309
+Epoch 111/256, Train Loss: 0.11270214143124493, Vali Loss: 0.11296182870864868
+Epoch 112/256, Train Loss: 0.11946287209337408, Vali Loss: 0.10104595124721527
+Epoch 113/256, Train Loss: 0.12080045721747658, Vali Loss: 0.09990190528333187
+Epoch 114/256, Train Loss: 0.1143750169060447, Vali Loss: 0.11921564675867558
+Epoch 115/256, Train Loss: 0.12283089350570332, Vali Loss: 0.10800287313759327
+Epoch 116/256, Train Loss: 0.11306631836024197, Vali Loss: 0.1049682516604662
+Epoch 117/256, Train Loss: 0.1139660430225459, Vali Loss: 0.10123273730278015
+Epoch 118/256, Train Loss: 0.1035133996470408, Vali Loss: 0.10301985777914524
+Epoch 119/256, Train Loss: 0.1146432262930003, Vali Loss: 0.09723757021129131
+Epoch 120/256, Train Loss: 0.10914198512380774, Vali Loss: 0.09232060052454472
+Epoch 121/256, Train Loss: 0.10648558627475392, Vali Loss: 0.1072216983884573
+Epoch 122/256, Train Loss: 0.10467615994540128, Vali Loss: 0.10318527556955814
+Epoch 123/256, Train Loss: 0.0984928160905838, Vali Loss: 0.09333487041294575
+Epoch 124/256, Train Loss: 0.09538738057017326, Vali Loss: 0.15928954258561134
+Epoch 125/256, Train Loss: 0.14614966782656583, Vali Loss: 0.11834685131907463
+Epoch 126/256, Train Loss: 0.10857156020673839, Vali Loss: 0.09701711870729923
+Epoch 127/256, Train Loss: 0.10587666048244997, Vali Loss: 0.0918057132512331
+Epoch 128/256, Train Loss: 0.09285479377616536, Vali Loss: 0.09926713071763515
+Epoch 129/256, Train Loss: 0.0898892693221569, Vali Loss: 0.09240507893264294
+Epoch 130/256, Train Loss: 0.09064324200153351, Vali Loss: 0.09460052102804184
+Epoch 131/256, Train Loss: 0.08791885863650929, Vali Loss: 0.0898581575602293
+Epoch 132/256, Train Loss: 0.0860693475062197, Vali Loss: 0.09177584573626518
+Epoch 133/256, Train Loss: 0.08821561932563782, Vali Loss: 0.08841357007622719
+Epoch 134/256, Train Loss: 0.08880345523357391, Vali Loss: 0.09638804383575916
+Epoch 135/256, Train Loss: 0.08825101974335584, Vali Loss: 0.08818727359175682
+Epoch 136/256, Train Loss: 0.08409703861583363, Vali Loss: 0.08979025296866894
+Epoch 137/256, Train Loss: 0.08550032431429083, Vali Loss: 0.09362858533859253
+Epoch 138/256, Train Loss: 0.08721002326770262, Vali Loss: 0.09188023582100868
+Epoch 139/256, Train Loss: 0.08591382815079256, Vali Loss: 0.09159506298601627
+Epoch 140/256, Train Loss: 0.08323129639029503, Vali Loss: 0.09160646796226501
+Epoch 141/256, Train Loss: 0.08266463266177611, Vali Loss: 0.09204055182635784
+Epoch 142/256, Train Loss: 0.0845334150574424, Vali Loss: 0.09100070782005787
+Epoch 143/256, Train Loss: 0.08671856434507803, Vali Loss: 0.09469975344836712
+Epoch 144/256, Train Loss: 0.08480078862472014, Vali Loss: 0.0918880570679903
+Epoch 145/256, Train Loss: 0.08232100782069293, Vali Loss: 0.08665781468153
+Epoch 146/256, Train Loss: 0.08429641208865425, Vali Loss: 0.0926954597234726
+Epoch 147/256, Train Loss: 0.0835005867887627, Vali Loss: 0.08707177825272083
+Epoch 148/256, Train Loss: 0.08049900592728094, Vali Loss: 0.09456857293844223
+Epoch 149/256, Train Loss: 0.08168189633976329, Vali Loss: 0.08823690563440323
+Epoch 150/256, Train Loss: 0.08158686723221432, Vali Loss: 0.08748156204819679
+Epoch 151/256, Train Loss: 0.08080037005923012, Vali Loss: 0.09374712407588959
+Epoch 152/256, Train Loss: 0.08033546703782948, Vali Loss: 0.08865615725517273
+Epoch 153/256, Train Loss: 0.08152271739461205, Vali Loss: 0.0880034901201725
+Epoch 154/256, Train Loss: 0.07931381938132373, Vali Loss: 0.0924377590417862
+Epoch 155/256, Train Loss: 0.08139463818886063, Vali Loss: 0.0878375917673111
+Epoch 156/256, Train Loss: 0.08086386322975159, Vali Loss: 0.09894214943051338
+Epoch 157/256, Train Loss: 0.0833790356462652, Vali Loss: 0.08763942867517471
+Epoch 158/256, Train Loss: 0.07822325114499439, Vali Loss: 0.08861494436860085
+Epoch 159/256, Train Loss: 0.07833281294866042, Vali Loss: 0.09062862023711205
+Epoch 160/256, Train Loss: 0.0781480341472409, Vali Loss: 0.08780734799802303
+Epoch 161/256, Train Loss: 0.07929981703108008, Vali Loss: 0.08903512172400951
+Epoch 162/256, Train Loss: 0.0763827223669399, Vali Loss: 0.0912963580340147
+Epoch 163/256, Train Loss: 0.07684711062095383, Vali Loss: 0.08861958235502243
+Epoch 164/256, Train Loss: 0.07679732313210313, Vali Loss: 0.08609573729336262
+Epoch 165/256, Train Loss: 0.07877102020111951, Vali Loss: 0.0882550198584795
+Epoch 166/256, Train Loss: 0.07586832107468085, Vali Loss: 0.08861026912927628
+Epoch 167/256, Train Loss: 0.0758723176338456, Vali Loss: 0.0905486885458231
+Epoch 168/256, Train Loss: 0.07901108061725443, Vali Loss: 0.08991500735282898
+Epoch 169/256, Train Loss: 0.07688708332451907, Vali Loss: 0.10009047016501427
+Epoch 170/256, Train Loss: 0.08027687465602701, Vali Loss: 0.08754638768732548
+Epoch 171/256, Train Loss: 0.07985456152395769, Vali Loss: 0.0897083505988121
+Epoch 172/256, Train Loss: 0.07445158606225794, Vali Loss: 0.10074337013065815
+Epoch 173/256, Train Loss: 0.07728810608386993, Vali Loss: 0.08847212232649326
+Epoch 174/256, Train Loss: 0.0767966668036851, Vali Loss: 0.08791828341782093
+Epoch 175/256, Train Loss: 0.08162441951307384, Vali Loss: 0.08848565258085728
+Epoch 176/256, Train Loss: 0.07913107391108166, Vali Loss: 0.10478964447975159
+Epoch 177/256, Train Loss: 0.07583520290526477, Vali Loss: 0.08750049211084843
+Epoch 178/256, Train Loss: 0.07662170549685304, Vali Loss: 0.08816377259790897
+Epoch 179/256, Train Loss: 0.07571646706624464, Vali Loss: 0.09772690385580063
+Epoch 180/256, Train Loss: 0.07762874899940057, Vali Loss: 0.08724665269255638
+Epoch 181/256, Train Loss: 0.07573554495518858, Vali Loss: 0.08813770674169064
+Epoch 182/256, Train Loss: 0.0764125179160725, Vali Loss: 0.09270255267620087
+Epoch 183/256, Train Loss: 0.07196952199394052, Vali Loss: 0.08716336078941822
+Epoch 184/256, Train Loss: 0.07603381506421349, Vali Loss: 0.08898118883371353
+Epoch 185/256, Train Loss: 0.07128995690833438, Vali Loss: 0.09001175500452518
+Epoch 186/256, Train Loss: 0.07373918525197289, Vali Loss: 0.08723970502614975
+Epoch 187/256, Train Loss: 0.07710027694702148, Vali Loss: 0.10628892667591572
+Epoch 188/256, Train Loss: 0.07661158659241417, Vali Loss: 0.08793332986533642
+Epoch 189/256, Train Loss: 0.07207088409499689, Vali Loss: 0.08649078570306301
+Epoch 190/256, Train Loss: 0.07171950658613985, Vali Loss: 0.089191859588027
+Epoch 191/256, Train Loss: 0.07168657366525043, Vali Loss: 0.10000958293676376
+Epoch 192/256, Train Loss: 0.0778428390622139, Vali Loss: 0.08716370910406113
+Epoch 193/256, Train Loss: 0.07136889513243329, Vali Loss: 0.09599317610263824
+Epoch 194/256, Train Loss: 0.07069992206313393, Vali Loss: 0.08829685486853123
+Epoch 195/256, Train Loss: 0.07660694488070229, Vali Loss: 0.094021400436759
+Epoch 196/256, Train Loss: 0.07268578220497478, Vali Loss: 0.09140248410403728
+Epoch 197/256, Train Loss: 0.06896057081493465, Vali Loss: 0.08643904328346252
+Epoch 198/256, Train Loss: 0.07144298946315591, Vali Loss: 0.08793652057647705
+Epoch 199/256, Train Loss: 0.07130088352344253, Vali Loss: 0.08651650324463844
+Epoch 200/256, Train Loss: 0.07118092341856523, Vali Loss: 0.08931468240916729
+Epoch 201/256, Train Loss: 0.07241955331780693, Vali Loss: 0.08633371442556381
+Epoch 202/256, Train Loss: 0.07037935168905692, Vali Loss: 0.08807059563696384
+Epoch 203/256, Train Loss: 0.06989665464921431, Vali Loss: 0.09441825188696384
+Epoch 204/256, Train Loss: 0.07164879888296127, Vali Loss: 0.0926794782280922
+Epoch 205/256, Train Loss: 0.06936154379086061, Vali Loss: 0.09040645323693752
+Epoch 206/256, Train Loss: 0.06759997254068201, Vali Loss: 0.08787189051508904
+Epoch 207/256, Train Loss: 0.06798777018081058, Vali Loss: 0.09442625194787979
+Epoch 208/256, Train Loss: 0.07205723022872751, Vali Loss: 0.0899103693664074
+Epoch 209/256, Train Loss: 0.06916064091704109, Vali Loss: 0.08608630858361721
+Epoch 210/256, Train Loss: 0.06967300142754208, Vali Loss: 0.088071683421731
+Epoch 211/256, Train Loss: 0.07042364843867042, Vali Loss: 0.08895515836775303
+Epoch 212/256, Train Loss: 0.07348633862354538, Vali Loss: 0.08855447359383106
+Epoch 213/256, Train Loss: 0.07250314476815137, Vali Loss: 0.10002098605036736
+Epoch 214/256, Train Loss: 0.0710595626045357, Vali Loss: 0.08496353588998318
+Epoch 215/256, Train Loss: 0.07133931124752219, Vali Loss: 0.08936523087322712
+Epoch 216/256, Train Loss: 0.07991874353452162, Vali Loss: 0.09526990726590157
+Epoch 217/256, Train Loss: 0.0739160454408689, Vali Loss: 0.09931490942835808
+Epoch 218/256, Train Loss: 0.07266279885714705, Vali Loss: 0.08814256452023983
+Epoch 219/256, Train Loss: 0.07017614286054265, Vali Loss: 0.08795850723981857
+Epoch 220/256, Train Loss: 0.07124867832118814, Vali Loss: 0.0941338799893856
+Epoch 221/256, Train Loss: 0.06922596828504042, Vali Loss: 0.09286453574895859
+Epoch 222/256, Train Loss: 0.06684054298834367, Vali Loss: 0.08782527595758438
+Epoch 223/256, Train Loss: 0.06754136661236937, Vali Loss: 0.08916589803993702
+Epoch 224/256, Train Loss: 0.07134017585353418, Vali Loss: 0.08859993703663349
+Epoch 225/256, Train Loss: 0.06945667856118896, Vali Loss: 0.09344231896102428
+Epoch 226/256, Train Loss: 0.06858465278690512, Vali Loss: 0.09023243002593517
+Epoch 227/256, Train Loss: 0.06498893248763951, Vali Loss: 0.08760171569883823
+Epoch 228/256, Train Loss: 0.06558442691510374, Vali Loss: 0.09097842127084732
+Epoch 229/256, Train Loss: 0.06629365513270552, Vali Loss: 0.0925041064620018
+Epoch 230/256, Train Loss: 0.07141943716190079, Vali Loss: 0.0880724098533392
+Epoch 231/256, Train Loss: 0.0681347254325043, Vali Loss: 0.08691950142383575
+Epoch 232/256, Train Loss: 0.06750990585847334, Vali Loss: 0.1051621213555336
+Epoch 233/256, Train Loss: 0.06785522706129334, Vali Loss: 0.08543100953102112
+Epoch 234/256, Train Loss: 0.0646159669215029, Vali Loss: 0.08792155049741268
+Epoch 235/256, Train Loss: 0.06342852301895618, Vali Loss: 0.09574798680841923
+Epoch 236/256, Train Loss: 0.06599660895087502, Vali Loss: 0.08740244433283806
+Epoch 237/256, Train Loss: 0.06829626316373999, Vali Loss: 0.09021735936403275
+Epoch 238/256, Train Loss: 0.06820494173602624, Vali Loss: 0.09518825262784958
+Epoch 239/256, Train Loss: 0.06642970849167217, Vali Loss: 0.0908472090959549
+Epoch 240/256, Train Loss: 0.06665600937875835, Vali Loss: 0.09054535627365112
+Epoch 241/256, Train Loss: 0.0632870237935673, Vali Loss: 0.08899788372218609
+Epoch 242/256, Train Loss: 0.06341909244656563, Vali Loss: 0.08839752152562141
+Epoch 243/256, Train Loss: 0.06343110244382512, Vali Loss: 0.08618095517158508
+Epoch 244/256, Train Loss: 0.06409968334165486, Vali Loss: 0.0877924282103777
+Epoch 245/256, Train Loss: 0.06728046624497934, Vali Loss: 0.10082398168742657
+Epoch 246/256, Train Loss: 0.07125636291774837, Vali Loss: 0.08648781850934029
+Epoch 247/256, Train Loss: 0.06284697692502629, Vali Loss: 0.0867979396134615
+Epoch 248/256, Train Loss: 0.06155744330449538, Vali Loss: 0.09037348069250584
+Epoch 249/256, Train Loss: 0.06303452734242786, Vali Loss: 0.08766853250563145
+Epoch 250/256, Train Loss: 0.06204626133496111, Vali Loss: 0.08687512204051018
+Epoch 251/256, Train Loss: 0.06337399746884, Vali Loss: 0.09331107325851917
+Epoch 252/256, Train Loss: 0.06530674851753494, Vali Loss: 0.08502498641610146
+Epoch 253/256, Train Loss: 0.06323268332264641, Vali Loss: 0.09166883677244186
+Epoch 254/256, Train Loss: 0.06595418128100308, Vali Loss: 0.08814937621355057
+Epoch 255/256, Train Loss: 0.06377253037962047, Vali Loss: 0.08864996396005154
+Epoch 256/256, Train Loss: 0.06135057691823353, Vali Loss: 0.09098940901458263
+Model saved to AtomData2Scalar_mean_hn10_train256_bcc_cutoff6_rmsd_ep256.pth

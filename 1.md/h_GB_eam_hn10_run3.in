@@ -1,0 +1,54 @@
+variable boxLen     equal 28.0
+variable gb_gap     equal 1.0
+variable box_margin equal 1.0
+variable h_num      equal 10
+#variable rot1_vec_x equal 1
+#variable rot1_vec_y equal 1
+#variable rot1_vec_z equal 1
+#variable rot1_deg   equal 0
+#variable rot2_vec_x equal 0
+#variable rot2_vec_y equal 1
+#variable rot2_vec_z equal 1
+#variable rot2_deg   equal 30
+
+variable title      string   box${boxLen}gb${gb_gap}hn${h_num}r1x${rot1_vec_x}r1y${rot1_vec_y}r1z${rot1_vec_z}r1d${rot1_deg}r2x${rot2_vec_x}r2y${rot2_vec_y}r2z${rot2_vec_z}r2d${rot2_deg}
+
+log ${title}.equ3
+
+units metal
+atom_style atomic 
+boundary p p p
+read_data ${title}.equ.data
+
+#pair_style	meam
+#pair_coeff	* * FeCH.library.meam Fe C H FeCH.meam Fe C H
+
+pair_style eam/fs
+pair_coeff * * PotentialB.fs Fe H H
+
+neighbor	0.3 bin
+neigh_modify	delay 0 every 1
+
+velocity all create 333 345
+
+thermo		1000
+thermo_style custom step temp lx ly lz pxx pyy pzz
+timestep	0.001
+
+create_atoms 3 random ${h_num} 345 NULL 
+group    h_atoms type 3
+
+minimize 1e-5 1e-6 10000 100000
+reset_timestep 0
+
+compute     msd_h h_atoms msd
+
+thermo		1000
+thermo_style custom step temp c_msd_h[4]
+
+#fix     1 all npt temp 333 333 0.01 aniso 0 0 1
+fix     1 all nvt temp 333 333 0.01 
+fix     2 h_atoms ave/time 1 1 100 c_msd_h[1] c_msd_h[2] c_msd_h[3] c_msd_h[4] file ${title}.h_msd3
+run     10000000
+unfix   1
+

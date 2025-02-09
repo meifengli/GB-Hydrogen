@@ -1,0 +1,120 @@
+variable boxLen     equal 28.0
+variable gb_gap     equal 1.0
+variable box_margin equal 1.0
+variable h_num      equal 10
+#variable rot1_vec_x equal 1
+#variable rot1_vec_y equal 1
+#variable rot1_vec_z equal 1
+#variable rot1_deg   equal 0
+#variable rot2_vec_x equal 0
+#variable rot2_vec_y equal 1
+#variable rot2_vec_z equal 1
+#variable rot2_deg   equal 30
+
+variable title      string   box${boxLen}gb${gb_gap}hn${h_num}r1x${rot1_vec_x}r1y${rot1_vec_y}r1z${rot1_vec_z}r1d${rot1_deg}r2x${rot2_vec_x}r2y${rot2_vec_y}r2z${rot2_vec_z}r2d${rot2_deg}
+
+variable len_half  equal v_boxLen/2.0
+variable side_move equal v_gb_gap/2.0
+variable h_box_gap equal v_gb_gap*0.1
+
+variable boxL_half equal v_len_half*10.0
+variable boxM_half equal v_len_half*3.0
+variable boxS_half equal v_len_half*1.0
+
+variable box_x_half equal v_len_half+v_box_margin
+variable box_y_half equal v_len_half+v_box_margin
+variable box_z_half equal v_len_half+v_box_margin+v_side_move
+
+log ${title}.equ
+
+units metal
+atom_style atomic 
+boundary p p p
+
+region boxL block -${boxL_half} ${boxL_half} -${boxL_half} ${boxL_half} -${boxL_half} ${boxL_half} units box
+region boxM block -${boxM_half} ${boxM_half} -${boxM_half} ${boxM_half} -${boxM_half} ${boxM_half} units box
+region boxS block -${boxS_half} ${boxS_half} -${boxS_half} ${boxS_half} -${boxS_half} ${boxS_half} units box
+
+region box_upp block -${boxS_half} ${boxS_half} -${boxS_half} ${boxS_half}  0 ${boxS_half} units box
+region box_btm block -${boxS_half} ${boxS_half} -${boxS_half} ${boxS_half} -${boxS_half} 0 units box
+region box_mid block -${boxS_half} ${boxS_half} -${boxS_half} ${boxS_half} -${h_box_gap} ${h_box_gap} units box
+
+create_box 3 boxL
+lattice bcc 2.86640 
+
+create_atoms 1 region boxM
+displace_atoms all rotate 0 0 0 ${rot1_vec_x} ${rot1_vec_y} ${rot1_vec_z} ${rot1_deg} units box
+group upp  region box_upp
+group atom2del subtract all upp  
+delete_atoms group atom2del compress yes
+displace_atoms upp move 0 0 ${side_move} units box
+
+create_atoms 1 region boxM
+group a2 subtract all upp 
+displace_atoms a2 rotate 0 0 0 ${rot2_vec_x} ${rot2_vec_y} ${rot2_vec_z} ${rot2_deg} units box
+group btm  region box_btm
+group atom2del subtract a2 btm
+delete_atoms group atom2del compress yes
+displace_atoms btm move 0 0 -${side_move} units box
+
+change_box upp x final -${box_x_half} ${box_x_half} y final -${box_y_half} ${box_y_half} z final -${box_z_half} ${box_z_half} units box
+
+mass 1 55.847
+mass 2 12.011
+mass 3 1.008
+
+#pair_style	meam
+#pair_coeff	* * FeCH.library.meam Fe C H FeCH.meam Fe C H
+
+pair_style eam/fs
+pair_coeff * * PotentialB.fs Fe H H
+
+minimize 1e-5 1e-6 10000 100000
+reset_timestep 0
+
+neighbor	0.3 bin
+neigh_modify	delay 0 every 1
+
+velocity all create 333 12345
+
+thermo		1000
+thermo_style custom step temp lx ly lz pxx pyy pzz
+timestep	0.001
+
+fix     1 all npt temp 333 1000 0.01 aniso 0 0 1
+run     200000
+unfix   1
+
+fix     1 all npt temp 1000 1000 0.01 aniso 0 0 1
+run     500000
+unfix   1
+
+fix     1 all npt temp 1000 333 0.01 aniso 0 0 1
+run     200000
+unfix   1
+
+fix     1 all npt temp 333 333 0.01 aniso 0 0 1
+run     100000
+unfix   1
+
+reset_timestep 0
+
+write_data ${title}.equ.data
+
+create_atoms 3 random ${h_num} 12345 box_mid 
+group    h_atoms type 3
+
+minimize 1e-5 1e-6 10000 100000
+reset_timestep 0
+
+compute     msd_h h_atoms msd
+
+thermo		1000
+thermo_style custom step temp c_msd_h[4]
+
+#fix     1 all npt temp 333 333 0.01 aniso 0 0 1
+fix     1 all nvt temp 333 333 0.01 
+fix     2 h_atoms ave/time 1 1 100 c_msd_h[1] c_msd_h[2] c_msd_h[3] c_msd_h[4] file ${title}.h_msd
+run     10000000
+unfix   1
+
